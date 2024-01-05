@@ -1,0 +1,1752 @@
+Lead ID,Prospect ID,Conversion Status,Lead Source,Product Category,Region,Customer Segment,Date,Sales
+1,101,Converted,Dealer 1, Home Automation,West,Wholesale,06-03-2019,191.472
+2,102,Converted,Dealer 3,Electrical fans,South,Wholesale,19-12-2019,59.184
+3,103,Not Converted,Dealer 2,Modular Switches,South,Individual,17-01-2019,349.95
+4,104,Converted,Dealer 5,MCBs,West,Small Business,09-01-2019,377.928
+5,105,Converted,Dealer 1, Home Automation,North,Retail,15-02-2019,15.168
+6,106,Converted,Dealer 5, Home Automation,South,Wholesale,14-10-2022,15.588
+7,107,Converted,Dealer 5,Modular Switches,Central,Individual,07-04-2019,54.992
+8,108,Converted,Dealer 3,Modular Switches,Central,Wholesale,04-07-2022,49.536
+9,109,Not Converted,Dealer 2,MCBs,Central,Wholesale,09-08-2019,11.648
+10,110,Converted,Dealer 3, Home Automation,Central,Enterprise,15-05-2022,90.57
+11,111,Converted,Dealer 1,Modular Switches,West,Retail,13-08-2019,316
+12,112,Converted,Dealer 2,Modular Switches,North,Small Business,04-12-2019,153.568
+13,113,Converted,Dealer 5,MCBs,West,Enterprise,23-08-2022,1013.488
+14,114,Converted,Dealer 2,MCBs,South,Enterprise,13-04-2022,110.376
+15,115,Converted,Dealer 3,Cabels ,Central,Small Business,04-10-2022,55.176
+16,116,Converted,Dealer 3,Electrical fans,Central,Wholesale,30-08-2022,26.336
+17,117,Not Converted,Dealer 4,Cabels ,Central,Wholesale,23-07-2019,59.99
+18,118,Converted,Dealer 3,MCBs,South,Retail,19-03-2019,43.12
+19,119,Not Converted,Dealer 2,Modular Switches,East,Wholesale,26-01-2019,45.98
+20,120,Not Converted,Dealer 1,MCBs,West,Enterprise,20-07-2022,17.456
+21,121,Converted,Dealer 4, Home Automation,North,Enterprise,30-05-2022,50.784
+22,122,Converted,Dealer 3,Modular Switches,South,Enterprise,03-06-2022,1439.968
+23,123,Not Converted,Dealer 3,Cabels ,East,Small Business,30-04-2019,1.728
+24,124,Not Converted,Dealer 2,Cabels ,East,Wholesale,10-01-2022,109.592
+25,125,Not Converted,Dealer 4,Cabels ,North,Wholesale,30-06-2022,1270.99
+26,126,Converted,Dealer 3,Modular Switches,South,Wholesale,08-03-2019,14.368
+27,127,Converted,Dealer 1,Electrical fans,East,Wholesale,27-05-2019,18.84
+28,128,Not Converted,Dealer 1,Electrical fans,Central,Retail,18-05-2022,104.85
+29,129,Converted,Dealer 3,Electrical fans,North,Retail,08-10-2019,484.83
+30,130,Converted,Dealer 1,MCBs,Central,Enterprise,14-06-2019,159.968
+31,131,Not Converted,Dealer 4,MCBs,North,Enterprise,01-07-2019,623.96
+32,132,Converted,Dealer 3, Home Automation,West,Small Business,20-11-2022,89.97
+33,133,Not Converted,Dealer 2,Modular Switches,West,Individual,14-05-2019,31.86
+34,134,Not Converted,Dealer 5, Home Automation,South,Enterprise,04-11-2022,15.92
+35,135,Not Converted,Dealer 1,MCBs,East,Wholesale,14-09-2022,398.352
+36,136,Converted,Dealer 3,Modular Switches,Central,Enterprise,30-07-2019,92.064
+37,137,Not Converted,Dealer 4,Cabels ,East,Enterprise,05-08-2019,62.958
+38,138,Converted,Dealer 5,Modular Switches,West,Retail,18-02-2022,326.646
+39,139,Not Converted,Dealer 3,MCBs,Central,Wholesale,12-02-2019,89.97
+40,140,Converted,Dealer 6,Cabels ,South,Small Business,12-04-2022,44.46
+41,141,Not Converted,Dealer 2,Cabels ,East,Small Business,09-12-2019,12.99
+42,142,Not Converted,Dealer 1,Modular Switches,North,Small Business,17-06-2022,18.56
+43,143,Converted,Dealer 1,Electrical fans,North,Enterprise,03-03-2022,31.248
+44,144,Converted,Dealer 6,MCBs,Central,Small Business,09-08-2022,68.95
+45,145,Converted,Dealer 5,MCBs,North,Small Business,18-09-2022,39.98
+46,146,Converted,Dealer 4,Electrical fans,North,Small Business,03-05-2019,3.762
+47,147,Not Converted,Dealer 2, Home Automation,West,Retail,07-10-2019,34.86
+48,148,Converted,Dealer 2, Home Automation,South,Wholesale,09-04-2022,135.8
+49,149,Converted,Dealer 1,MCBs,North,Retail,06-04-2019,445.96
+50,150,Converted,Dealer 6,Electrical fans,North,Wholesale,09-12-2022,36.24
+51,151,Not Converted,Dealer 5,Electrical fans,East,Retail,24-09-2022,170.88
+52,152,Not Converted,Dealer 3,Cabels ,Central,Wholesale,05-01-2019,159.984
+53,153,Not Converted,Dealer 5, Home Automation,West,Small Business,04-01-2019,447.86
+54,154,Not Converted,Dealer 1, Home Automation,Central,Individual,28-07-2019,479.95
+55,155,Converted,Dealer 2,Cabels ,East,Small Business,25-07-2019,134.85
+56,156,Not Converted,Dealer 4,Modular Switches,East,Individual,21-09-2022,35.28
+57,157,Not Converted,Dealer 5, Home Automation,East,Small Business,19-12-2022,128.4
+58,158,Converted,Dealer 1,Cabels ,North,Retail,21-01-2022,2.334
+59,159,Not Converted,Dealer 1,Electrical fans,Central,Individual,26-02-2019,1.728
+60,160,Converted,Dealer 6,Modular Switches,Central,Small Business,05-05-2022,159.04
+61,161,Converted,Dealer 6,MCBs,Central,Enterprise,26-12-2022,1363.96
+62,162,Converted,Dealer 6,Electrical fans,South,Individual,27-11-2019,102.36
+63,163,Converted,Dealer 1,Modular Switches,West,Wholesale,13-09-2019,9.702
+64,164,Not Converted,Dealer 6,Cabels ,North,Retail,23-07-2022,113.6
+65,165,Not Converted,Dealer 6,Electrical fans,West,Small Business,14-08-2019,69.456
+66,166,Not Converted,Dealer 1,Modular Switches,North,Small Business,13-08-2019,4158.912
+67,167,Converted,Dealer 1,MCBs,Central,Wholesale,28-10-2019,26.85
+68,168,Not Converted,Dealer 4,Electrical fans,South,Small Business,27-10-2019,76.92
+69,169,Converted,Dealer 2,Electrical fans,South,Small Business,06-07-2019,154.9
+70,170,Converted,Dealer 3, Home Automation,Central,Wholesale,28-06-2022,770.352
+71,171,Converted,Dealer 1,Modular Switches,West,Wholesale,19-10-2022,157.92
+72,172,Not Converted,Dealer 3,Modular Switches,East,Enterprise,30-12-2022,203.184
+73,173,Not Converted,Dealer 4, Home Automation,Central,Enterprise,29-11-2022,28.28
+74,174,Not Converted,Dealer 2,Cabels ,North,Wholesale,21-11-2019,51.184
+75,175,Converted,Dealer 2,Cabels ,West,Individual,07-06-2019,21.88
+76,176,Converted,Dealer 2, Home Automation,East,Individual,15-05-2019,41.904
+77,177,Not Converted,Dealer 4,Electrical fans,South,Individual,03-04-2019,4.544
+78,178,Converted,Dealer 6,MCBs,North,Retail,22-03-2022,1352.032
+79,179,Not Converted,Dealer 2,Cabels ,South,Enterprise,26-01-2019,129.98
+80,180,Not Converted,Dealer 2,MCBs,North,Individual,21-09-2019,32.54
+81,181,Not Converted,Dealer 4,Modular Switches,East,Individual,21-10-2022,84.784
+82,182,Converted,Dealer 5,Modular Switches,North,Individual,20-04-2019,14.98
+83,183,Not Converted,Dealer 2,Cabels ,East,Wholesale,09-10-2019,20.32
+84,184,Converted,Dealer 2,Electrical fans,Central,Small Business,29-05-2022,11.992
+85,185,Converted,Dealer 6,Modular Switches,Central,Retail,21-06-2022,3.168
+86,186,Not Converted,Dealer 1,MCBs,North,Small Business,18-10-2019,528.43
+87,187,Not Converted,Dealer 1,Electrical fans,West,Enterprise,12-12-2022,58.58
+88,188,Not Converted,Dealer 2,Cabels ,South,Small Business,08-03-2019,17.04
+89,189,Not Converted,Dealer 3,Modular Switches,North,Retail,09-10-2019,20.24
+90,190,Converted,Dealer 5,Cabels ,North,Individual,20-09-2019,39.92
+91,191,Converted,Dealer 6,Electrical fans,South,Individual,09-08-2019,32.54
+92,192,Not Converted,Dealer 3,Electrical fans,North,Wholesale,19-02-2019,844.116
+93,193,Converted,Dealer 6,Electrical fans,South,Wholesale,15-03-2022,812.736
+94,194,Converted,Dealer 4, Home Automation,East,Retail,23-03-2022,29.8
+95,195,Converted,Dealer 6, Home Automation,West,Individual,15-06-2022,414
+96,196,Converted,Dealer 6,MCBs,Central,Small Business,18-12-2022,41.328
+97,197,Converted,Dealer 6,Electrical fans,Central,Small Business,22-08-2022,158.376
+98,198,Not Converted,Dealer 1,Electrical fans,West,Retail,18-11-2022,327.996
+99,199,Converted,Dealer 4,Modular Switches,South,Wholesale,21-11-2022,35.12
+100,200,Not Converted,Dealer 6,MCBs,West,Small Business,31-10-2019,30.144
+101,201,Not Converted,Dealer 4,MCBs,South,Enterprise,26-10-2022,14.352
+102,202,Not Converted,Dealer 4,Cabels ,West,Retail,29-12-2019,1317.492
+103,203,Not Converted,Dealer 4,Electrical fans,North,Enterprise,01-10-2022,3.592
+104,204,Converted,Dealer 3,Modular Switches,North,Enterprise,12-09-2019,7.04
+105,205,Converted,Dealer 6,Cabels ,West,Wholesale,23-10-2019,71.12
+106,206,Not Converted,Dealer 1, Home Automation,East,Individual,09-02-2019,259.96
+107,207,Not Converted,Dealer 1,Electrical fans,West,Retail,05-10-2022,588.784
+108,208,Converted,Dealer 1,MCBs,Central,Individual,01-04-2019,82.64
+109,209,Not Converted,Dealer 1,Electrical fans,North,Small Business,07-01-2019,89.97
+110,210,Not Converted,Dealer 6,Electrical fans,West,Small Business,25-08-2019,658.746
+111,211,Converted,Dealer 1, Home Automation,Central,Retail,18-06-2019,121.104
+112,212,Not Converted,Dealer 5,Modular Switches,North,Wholesale,07-04-2019,24.7
+113,213,Converted,Dealer 3,Modular Switches,East,Small Business,28-02-2019,8.904
+114,214,Not Converted,Dealer 2,Modular Switches,East,Small Business,21-06-2022,23.2
+115,215,Converted,Dealer 1,Cabels ,Central,Individual,08-07-2022,113.76
+116,216,Converted,Dealer 2,Modular Switches,West,Small Business,24-01-2022,48.032
+117,217,Not Converted,Dealer 2,Cabels ,North,Wholesale,09-05-2022,638.288
+118,218,Converted,Dealer 2, Home Automation,East,Small Business,29-08-2022,13.208
+119,219,Converted,Dealer 4,Electrical fans,Central,Small Business,09-11-2019,194.352
+120,220,Not Converted,Dealer 1,Cabels ,South,Enterprise,15-09-2022,36.624
+121,221,Converted,Dealer 5, Home Automation,West,Wholesale,19-12-2019,383.8
+122,222,Converted,Dealer 4,Cabels ,South,Small Business,23-03-2022,933.536
+123,223,Not Converted,Dealer 6, Home Automation,West,Wholesale,04-08-2022,1121.568
+124,224,Not Converted,Dealer 1,Modular Switches,North,Wholesale,20-06-2022,39.96
+125,225,Converted,Dealer 4,Modular Switches,Central,Small Business,11-02-2019,5.84
+126,226,Converted,Dealer 2, Home Automation,North,Small Business,16-04-2022,9.336
+127,227,Not Converted,Dealer 4,MCBs,South,Wholesale,08-04-2022,25.98
+128,228,Not Converted,Dealer 4, Home Automation,Central,Individual,07-03-2022,9.28
+129,229,Converted,Dealer 1,Cabels ,North,Individual,30-04-2019,48.792
+130,230,Converted,Dealer 2, Home Automation,North,Wholesale,16-07-2019,44.848
+131,231,Converted,Dealer 2,Electrical fans,North,Wholesale,25-02-2022,23.56
+132,232,Converted,Dealer 3,MCBs,South,Individual,27-01-2022,28.485
+133,233,Converted,Dealer 3, Home Automation,North,Individual,11-02-2019,78.272
+134,234,Not Converted,Dealer 6,MCBs,East,Enterprise,21-06-2019,86.62
+135,235,Converted,Dealer 5,MCBs,West,Individual,27-03-2022,31.56
+136,236,Converted,Dealer 1, Home Automation,East,Individual,17-04-2022,251.52
+137,237,Converted,Dealer 4, Home Automation,South,Retail,26-09-2022,99.99
+138,238,Not Converted,Dealer 2,Modular Switches,South,Small Business,25-09-2019,18.088
+139,239,Converted,Dealer 4, Home Automation,North,Enterprise,09-06-2022,3.984
+140,240,Not Converted,Dealer 1, Home Automation,Central,Enterprise,28-03-2022,1325.76
+141,241,Not Converted,Dealer 4,Modular Switches,East,Wholesale,02-11-2019,3.108
+142,242,Converted,Dealer 2,Modular Switches,South,Retail,04-02-2019,434.646
+143,243,Converted,Dealer 3,Electrical fans,West,Small Business,13-11-2022,41.568
+144,244,Not Converted,Dealer 6, Home Automation,South,Enterprise,23-08-2022,30.344
+145,245,Not Converted,Dealer 2,Cabels ,East,Individual,11-09-2022,7.712
+146,246,Not Converted,Dealer 2,MCBs,West,Individual,18-10-2022,111.888
+147,247,Not Converted,Dealer 2,Modular Switches,West,Individual,30-03-2019,45.576
+148,248,Not Converted,Dealer 2, Home Automation,North,Small Business,04-10-2019,12.56
+149,249,Converted,Dealer 5,Cabels ,Central,Enterprise,10-05-2022,90.48
+150,250,Converted,Dealer 2,MCBs,West,Small Business,15-05-2022,214.7
+151,251,Converted,Dealer 4, Home Automation,North,Wholesale,24-06-2019,2.182
+152,252,Converted,Dealer 5,Cabels ,Central,Wholesale,24-06-2022,26.406
+153,253,Not Converted,Dealer 3,MCBs,North,Retail,30-01-2022,132.52
+154,254,Converted,Dealer 5,Cabels ,South,Wholesale,05-02-2022,51.968
+155,255,Converted,Dealer 4,Modular Switches,South,Enterprise,11-11-2019,431.976
+156,256,Converted,Dealer 4, Home Automation,Central,Enterprise,01-01-2019,246.168
+157,257,Converted,Dealer 4,Cabels ,North,Enterprise,30-11-2022,6.72
+158,258,Converted,Dealer 1,Cabels ,East,Individual,03-05-2019,5.728
+159,259,Converted,Dealer 3, Home Automation,North,Individual,24-04-2019,177.48
+160,260,Converted,Dealer 3,MCBs,East,Enterprise,08-07-2019,54.712
+161,261,Converted,Dealer 2, Home Automation,West,Wholesale,06-10-2022,3.208
+162,262,Converted,Dealer 6,Cabels ,West,Wholesale,16-07-2019,26.176
+163,263,Not Converted,Dealer 1,Electrical fans,West,Retail,01-04-2019,54.48
+164,264,Converted,Dealer 5,MCBs,North,Small Business,19-05-2022,41.6
+165,265,Converted,Dealer 1,Cabels ,Central,Retail,16-12-2019,85.232
+166,266,Not Converted,Dealer 1,Electrical fans,East,Small Business,07-07-2019,442.764
+167,267,Not Converted,Dealer 5,MCBs,North,Wholesale,01-07-2022,199.95
+168,268,Converted,Dealer 3,Modular Switches,West,Enterprise,29-08-2019,63.68
+169,269,Converted,Dealer 6, Home Automation,South,Individual,04-09-2019,211.96
+170,270,Not Converted,Dealer 6,MCBs,West,Retail,13-04-2019,58.112
+171,271,Converted,Dealer 6,MCBs,Central,Retail,09-10-2019,10.02
+172,272,Not Converted,Dealer 4,Cabels ,West,Wholesale,14-10-2019,631.96
+173,273,Not Converted,Dealer 3,Electrical fans,Central,Small Business,01-08-2019,120
+174,274,Converted,Dealer 4,MCBs,South,Retail,22-03-2019,8.67
+175,275,Converted,Dealer 5, Home Automation,East,Small Business,21-06-2019,79.384
+176,276,Converted,Dealer 4,MCBs,West,Retail,18-10-2019,57.582
+177,277,Not Converted,Dealer 2,MCBs,Central,Enterprise,17-10-2019,30.192
+178,278,Not Converted,Dealer 2,Cabels ,East,Wholesale,01-07-2019,43.6
+179,279,Not Converted,Dealer 1,MCBs,South,Small Business,14-11-2022,10.38
+180,280,Not Converted,Dealer 1,Electrical fans,Central,Wholesale,22-12-2022,13.392
+181,281,Not Converted,Dealer 3,Cabels ,South,Individual,09-05-2019,185.528
+182,282,Converted,Dealer 3,Modular Switches,South,Wholesale,07-07-2019,13.776
+183,283,Converted,Dealer 2,Modular Switches,North,Small Business,21-08-2022,7.764
+184,284,Converted,Dealer 5,Cabels ,East,Small Business,02-04-2022,282.84
+185,285,Not Converted,Dealer 1,Electrical fans,North,Individual,29-03-2019,2.952
+186,286,Not Converted,Dealer 5,Cabels ,South,Individual,12-11-2022,27.018
+187,287,Converted,Dealer 6,Cabels ,Central,Retail,10-01-2019,2.89
+188,288,Converted,Dealer 6,Cabels ,West,Small Business,27-02-2019,22.608
+189,289,Converted,Dealer 6,Cabels ,North,Wholesale,24-09-2022,242.9
+190,290,Converted,Dealer 5,MCBs,West,Individual,09-06-2022,35.92
+191,291,Not Converted,Dealer 6, Home Automation,North,Wholesale,07-11-2022,39.76
+192,292,Converted,Dealer 6,Modular Switches,East,Individual,11-01-2022,47.744
+193,293,Not Converted,Dealer 4,Electrical fans,West,Small Business,01-01-2022,9.584
+194,294,Converted,Dealer 3,MCBs,North,Individual,20-06-2019,87.84
+195,295,Not Converted,Dealer 2,Modular Switches,South,Small Business,20-05-2022,1049.2
+196,296,Not Converted,Dealer 1, Home Automation,Central,Individual,19-12-2022,15.424
+197,297,Converted,Dealer 4,Cabels ,South,Retail,21-10-2022,2.694
+198,298,Converted,Dealer 6, Home Automation,East,Individual,26-04-2019,40.635
+199,299,Not Converted,Dealer 1,Modular Switches,East,Retail,02-07-2019,55.176
+200,300,Converted,Dealer 4,Modular Switches,North,Retail,09-01-2022,66.26
+201,301,Converted,Dealer 2,MCBs,South,Wholesale,06-12-2019,3.798
+202,302,Converted,Dealer 6,MCBs,West,Small Business,19-05-2019,222.384
+203,303,Converted,Dealer 2,Electrical fans,North,Individual,04-05-2019,37.05
+204,304,Converted,Dealer 4,Cabels ,North,Individual,03-11-2022,1979.928
+205,305,Converted,Dealer 1, Home Automation,South,Enterprise,10-01-2022,24.96
+206,306,Not Converted,Dealer 3,Cabels ,Central,Individual,17-03-2019,9.64
+207,307,Not Converted,Dealer 6, Home Automation,East,Small Business,27-10-2022,41.37
+208,308,Not Converted,Dealer 5,Cabels ,West,Small Business,04-09-2019,211.168
+209,309,Converted,Dealer 1,Modular Switches,East,Individual,25-08-2022,484.704
+210,310,Not Converted,Dealer 1,Modular Switches,North,Retail,08-01-2022,47.92
+211,311,Converted,Dealer 3,Cabels ,Central,Enterprise,16-07-2019,25.176
+212,312,Converted,Dealer 4,Electrical fans,North,Small Business,18-01-2019,5.584
+213,313,Not Converted,Dealer 5,Modular Switches,Central,Enterprise,13-07-2022,390.272
+214,314,Converted,Dealer 3,Electrical fans,South,Enterprise,26-02-2019,262.24
+215,315,Not Converted,Dealer 4,Modular Switches,East,Small Business,29-07-2019,131.6
+216,316,Not Converted,Dealer 4,MCBs,North,Retail,24-03-2019,22.72
+217,317,Not Converted,Dealer 4,MCBs,Central,Retail,09-02-2019,286.4
+218,318,Not Converted,Dealer 1,Cabels ,Central,Small Business,13-09-2022,979.95
+219,319,Not Converted,Dealer 1, Home Automation,North,Individual,17-06-2022,22.75
+220,320,Not Converted,Dealer 6,MCBs,East,Individual,24-10-2019,22.62
+221,321,Converted,Dealer 6,Modular Switches,South,Enterprise,04-02-2019,14.952
+222,322,Converted,Dealer 3,Modular Switches,South,Individual,23-01-2019,801.568
+223,323,Not Converted,Dealer 5,MCBs,West,Enterprise,14-08-2022,2.376
+224,324,Converted,Dealer 6,MCBs,West,Individual,27-09-2022,123.92
+225,325,Converted,Dealer 2, Home Automation,West,Retail,23-03-2022,167.84
+226,326,Converted,Dealer 3,MCBs,East,Retail,09-03-2019,32.064
+227,327,Not Converted,Dealer 2,Cabels ,West,Retail,03-10-2019,191.079
+228,328,Converted,Dealer 2, Home Automation,West,Individual,03-09-2022,7.152
+229,329,Converted,Dealer 4,MCBs,East,Enterprise,14-06-2019,179.7
+230,330,Not Converted,Dealer 1,Modular Switches,West,Enterprise,20-09-2019,419.68
+231,331,Converted,Dealer 6,MCBs,South,Retail,12-12-2019,11.688
+232,332,Converted,Dealer 1,Cabels ,North,Retail,03-12-2019,31.984
+233,333,Converted,Dealer 6,Cabels ,South,Individual,06-10-2022,4.044
+234,334,Converted,Dealer 1,Modular Switches,South,Individual,19-10-2022,61.12
+235,335,Converted,Dealer 6, Home Automation,Central,Enterprise,27-10-2019,21.552
+236,336,Converted,Dealer 1,Modular Switches,North,Wholesale,29-06-2019,58.24
+237,337,Converted,Dealer 4,MCBs,South,Enterprise,03-10-2022,328.224
+238,338,Not Converted,Dealer 2,Modular Switches,North,Individual,27-02-2019,3023.928
+239,339,Converted,Dealer 6, Home Automation,South,Small Business,12-07-2022,26.96
+240,340,Converted,Dealer 2,Electrical fans,East,Individual,12-03-2022,477.6
+241,341,Converted,Dealer 6,Modular Switches,East,Individual,06-07-2022,466.32
+242,342,Converted,Dealer 6, Home Automation,West,Small Business,20-05-2022,82.64
+243,343,Not Converted,Dealer 4,Electrical fans,East,Individual,24-10-2022,4.784
+244,344,Not Converted,Dealer 5, Home Automation,North,Enterprise,24-04-2022,177.48
+245,345,Not Converted,Dealer 6, Home Automation,Central,Small Business,15-10-2019,122.352
+246,346,Converted,Dealer 1,Electrical fans,West,Wholesale,12-04-2019,239.97
+247,347,Not Converted,Dealer 4,Modular Switches,South,Individual,25-09-2019,208.16
+248,348,Converted,Dealer 3,Electrical fans,East,Wholesale,09-04-2019,16.74
+249,349,Not Converted,Dealer 2,Modular Switches,West,Wholesale,06-10-2022,47.04
+250,350,Not Converted,Dealer 6, Home Automation,East,Small Business,19-12-2019,30.84
+251,351,Converted,Dealer 5,Modular Switches,West,Retail,30-09-2019,68.04
+252,352,Not Converted,Dealer 1,Cabels ,North,Wholesale,19-05-2019,52.56
+253,353,Not Converted,Dealer 6,Electrical fans,North,Wholesale,12-07-2022,33.568
+254,354,Not Converted,Dealer 1,Electrical fans,South,Retail,25-11-2022,8.73
+255,355,Converted,Dealer 3,MCBs,West,Enterprise,20-01-2022,29.29
+256,356,Converted,Dealer 6, Home Automation,Central,Retail,05-06-2022,39.936
+257,357,Not Converted,Dealer 2, Home Automation,North,Enterprise,20-02-2022,18.464
+258,358,Converted,Dealer 6,Modular Switches,South,Enterprise,02-07-2019,319.41
+259,359,Converted,Dealer 2,Cabels ,West,Retail,23-01-2022,30
+260,360,Converted,Dealer 5, Home Automation,South,Wholesale,10-07-2022,48.48
+261,361,Not Converted,Dealer 6,Cabels ,North,Enterprise,15-04-2022,266.352
+262,362,Converted,Dealer 4,MCBs,South,Retail,16-10-2022,483.136
+263,363,Not Converted,Dealer 4,Electrical fans,West,Individual,03-10-2022,45
+264,364,Converted,Dealer 3,Cabels ,East,Wholesale,09-05-2022,21.8
+265,365,Converted,Dealer 4, Home Automation,Central,Enterprise,25-03-2019,17.712
+266,366,Not Converted,Dealer 3,Electrical fans,North,Small Business,09-01-2022,21.78
+267,367,Not Converted,Dealer 1,Cabels ,West,Wholesale,27-08-2022,161.568
+268,368,Converted,Dealer 2,Cabels ,West,Individual,03-04-2022,36.56
+269,369,Not Converted,Dealer 1,Modular Switches,South,Individual,04-06-2022,186.144
+270,370,Not Converted,Dealer 2,Electrical fans,North,Retail,16-01-2022,0.836
+271,371,Converted,Dealer 2,Cabels ,East,Individual,21-05-2019,862.344
+272,372,Not Converted,Dealer 3,Modular Switches,East,Small Business,11-08-2022,38.24
+273,373,Converted,Dealer 4, Home Automation,Central,Retail,17-12-2022,440.91
+274,374,Converted,Dealer 4,Cabels ,Central,Individual,07-03-2019,241.44
+275,375,Not Converted,Dealer 3,Modular Switches,South,Enterprise,16-11-2022,60.81
+276,376,Converted,Dealer 3,Modular Switches,North,Wholesale,26-05-2019,22.14
+277,377,Converted,Dealer 1,Electrical fans,East,Small Business,16-01-2019,20.97
+278,378,Converted,Dealer 3,Modular Switches,North,Small Business,20-04-2019,139.96
+279,379,Not Converted,Dealer 4,Cabels ,South,Small Business,15-12-2019,37.74
+280,380,Not Converted,Dealer 3,MCBs,North,Enterprise,02-02-2022,135.95
+281,381,Converted,Dealer 3, Home Automation,North,Individual,05-12-2022,539.658
+282,382,Not Converted,Dealer 2,Cabels ,North,Wholesale,24-03-2022,201.584
+283,383,Converted,Dealer 3,Cabels ,South,Wholesale,30-05-2022,359.976
+284,384,Not Converted,Dealer 1, Home Automation,South,Enterprise,27-02-2022,7.752
+285,385,Not Converted,Dealer 5, Home Automation,South,Retail,30-09-2022,33.568
+286,386,Not Converted,Dealer 6,Modular Switches,East,Individual,06-02-2019,50.12
+287,387,Converted,Dealer 6,Cabels ,West,Small Business,15-03-2022,30.84
+288,388,Converted,Dealer 2,Modular Switches,North,Retail,11-07-2019,195.184
+289,389,Not Converted,Dealer 2,Electrical fans,Central,Enterprise,27-04-2019,706.86
+290,390,Not Converted,Dealer 6,Modular Switches,Central,Individual,05-07-2022,25.4
+291,391,Converted,Dealer 2,Electrical fans,West,Individual,16-07-2022,215.65
+292,392,Converted,Dealer 2,MCBs,North,Individual,14-09-2022,60.288
+293,393,Not Converted,Dealer 4,Cabels ,North,Retail,26-01-2019,253.372
+294,394,Converted,Dealer 4,Electrical fans,North,Retail,13-01-2022,287.968
+295,395,Not Converted,Dealer 3,MCBs,South,Enterprise,05-05-2022,19.968
+296,396,Converted,Dealer 5, Home Automation,East,Small Business,12-09-2022,8.736
+297,397,Not Converted,Dealer 1,Modular Switches,South,Retail,30-01-2019,662.88
+298,398,Not Converted,Dealer 6,MCBs,North,Wholesale,30-03-2019,823.96
+299,399,Converted,Dealer 6,Electrical fans,West,Retail,11-09-2022,408.006
+300,400,Converted,Dealer 4,Cabels ,North,Retail,04-02-2022,165.28
+301,401,Converted,Dealer 4, Home Automation,North,Individual,23-07-2022,44.856
+302,402,Converted,Dealer 2, Home Automation,East,Wholesale,17-04-2019,95.76
+303,403,Converted,Dealer 1,MCBs,North,Small Business,07-04-2022,380.864
+304,404,Not Converted,Dealer 4,MCBs,South,Wholesale,18-06-2019,9.144
+305,405,Converted,Dealer 2,Modular Switches,Central,Small Business,13-11-2019,8.544
+306,406,Not Converted,Dealer 5, Home Automation,East,Enterprise,02-08-2022,14.16
+307,407,Converted,Dealer 4, Home Automation,East,Individual,30-04-2019,29
+308,408,Converted,Dealer 6,Modular Switches,East,Enterprise,03-02-2019,36.4
+309,409,Not Converted,Dealer 6,Cabels ,North,Retail,29-11-2019,51.75
+310,410,Not Converted,Dealer 1,Modular Switches,East,Retail,16-11-2022,110.376
+311,411,Converted,Dealer 1,Electrical fans,East,Individual,27-11-2022,151.62
+312,412,Not Converted,Dealer 4,Electrical fans,South,Enterprise,12-06-2022,30.8
+313,413,Converted,Dealer 4,MCBs,West,Wholesale,07-10-2019,45.96
+314,414,Converted,Dealer 1,Modular Switches,South,Enterprise,13-02-2022,544.008
+315,415,Converted,Dealer 1,Modular Switches,South,Small Business,17-07-2019,1.872
+316,416,Not Converted,Dealer 5,MCBs,West,Retail,18-06-2019,854.352
+317,417,Not Converted,Dealer 5,Cabels ,West,Wholesale,06-05-2022,55.992
+318,418,Converted,Dealer 2,Modular Switches,East,Retail,17-09-2022,35.984
+319,419,Converted,Dealer 6, Home Automation,South,Enterprise,08-05-2019,389.97
+320,420,Converted,Dealer 6,Modular Switches,North,Individual,16-10-2019,89.95
+321,421,Converted,Dealer 2,Cabels ,Central,Wholesale,02-11-2022,11.088
+322,422,Not Converted,Dealer 2,Modular Switches,Central,Individual,23-07-2022,23.696
+323,423,Converted,Dealer 1, Home Automation,Central,Enterprise,05-01-2019,11.416
+324,424,Converted,Dealer 6,Electrical fans,South,Small Business,23-02-2022,253.764
+325,425,Not Converted,Dealer 2,Electrical fans,West,Individual,14-11-2019,119.616
+326,426,Not Converted,Dealer 3,Cabels ,East,Individual,12-08-2022,255.76
+327,427,Converted,Dealer 4,Cabels ,East,Enterprise,26-04-2022,241.568
+328,428,Not Converted,Dealer 2, Home Automation,Central,Wholesale,30-08-2022,69.3
+329,429,Converted,Dealer 6,Electrical fans,East,Enterprise,11-10-2019,243.88
+330,430,Converted,Dealer 2,Electrical fans,North,Individual,21-03-2019,2.214
+331,431,Not Converted,Dealer 3,Electrical fans,North,Retail,29-11-2022,715.64
+332,432,Converted,Dealer 1,Electrical fans,West,Retail,16-01-2022,1039.728
+333,433,Not Converted,Dealer 6, Home Automation,East,Individual,21-06-2022,45.96
+334,434,Converted,Dealer 1,Cabels ,South,Wholesale,10-10-2022,333.576
+335,435,Converted,Dealer 4,Cabels ,East,Individual,22-08-2019,12.544
+336,436,Not Converted,Dealer 1,MCBs,South,Retail,03-05-2022,3.98
+337,437,Not Converted,Dealer 2,Cabels ,Central,Small Business,10-02-2019,302.384
+338,438,Not Converted,Dealer 3,Electrical fans,South,Individual,06-09-2022,20.952
+339,439,Converted,Dealer 1,Modular Switches,Central,Individual,10-01-2022,11.784
+340,440,Converted,Dealer 5,Electrical fans,North,Small Business,13-02-2022,211.168
+341,441,Converted,Dealer 6,Electrical fans,East,Wholesale,19-08-2019,487.92
+342,442,Converted,Dealer 6,Cabels ,West,Enterprise,09-12-2019,15.24
+343,443,Not Converted,Dealer 2,MCBs,East,Retail,02-05-2019,145.764
+344,444,Not Converted,Dealer 5, Home Automation,Central,Retail,06-12-2019,259.896
+345,445,Not Converted,Dealer 2,Modular Switches,East,Enterprise,03-09-2019,247.188
+346,446,Converted,Dealer 3,Modular Switches,West,Enterprise,08-06-2022,279.96
+347,447,Not Converted,Dealer 4,MCBs,Central,Enterprise,16-01-2019,18.882
+348,448,Not Converted,Dealer 4,Electrical fans,Central,Enterprise,02-04-2022,122.328
+349,449,Not Converted,Dealer 4, Home Automation,West,Retail,12-09-2022,71.976
+350,450,Not Converted,Dealer 6, Home Automation,East,Individual,11-06-2022,705.544
+351,451,Converted,Dealer 6, Home Automation,West,Individual,27-05-2019,312.03
+352,452,Converted,Dealer 4,Cabels ,South,Small Business,04-04-2022,165.6
+353,453,Not Converted,Dealer 2,Electrical fans,North,Individual,04-12-2019,355.32
+354,454,Converted,Dealer 1,Modular Switches,West,Wholesale,26-09-2019,39.99
+355,455,Not Converted,Dealer 4,Modular Switches,Central,Wholesale,13-12-2022,146.688
+356,456,Converted,Dealer 1,Electrical fans,South,Enterprise,03-10-2019,276.784
+357,457,Converted,Dealer 4,Modular Switches,North,Small Business,03-03-2022,25.32
+358,458,Not Converted,Dealer 5,Cabels ,West,Retail,03-03-2022,12.672
+359,459,Not Converted,Dealer 2, Home Automation,North,Individual,31-12-2022,91.96
+360,460,Not Converted,Dealer 6,Modular Switches,East,Individual,23-10-2019,254.97
+361,461,Not Converted,Dealer 4,Cabels ,Central,Retail,07-06-2022,31.984
+362,462,Converted,Dealer 4, Home Automation,West,Wholesale,20-12-2019,573.174
+363,463,Not Converted,Dealer 2,Electrical fans,Central,Enterprise,04-07-2019,113.552
+364,464,Converted,Dealer 3,Electrical fans,South,Small Business,20-04-2022,3.318
+365,465,Not Converted,Dealer 4,Cabels ,South,Wholesale,09-05-2022,98.328
+366,466,Converted,Dealer 1,Cabels ,North,Small Business,15-05-2019,1040.8
+367,467,Not Converted,Dealer 2,Cabels ,South,Enterprise,27-08-2022,1603.136
+368,468,Converted,Dealer 3,Modular Switches,South,Individual,21-11-2022,33
+369,469,Converted,Dealer 4,Electrical fans,West,Enterprise,26-07-2019,249.95
+370,470,Not Converted,Dealer 4,Modular Switches,Central,Wholesale,23-10-2019,186.54
+371,471,Not Converted,Dealer 6,Modular Switches,North,Individual,22-12-2022,146.688
+372,472,Converted,Dealer 3, Home Automation,South,Enterprise,26-03-2019,108.576
+373,473,Not Converted,Dealer 2,Cabels ,Central,Individual,17-07-2022,18.432
+374,474,Not Converted,Dealer 1,Modular Switches,East,Individual,22-01-2022,95.976
+375,475,Converted,Dealer 4, Home Automation,West,Small Business,07-12-2019,1.788
+376,476,Not Converted,Dealer 2,MCBs,South,Small Business,22-01-2019,22
+377,477,Not Converted,Dealer 6, Home Automation,South,Wholesale,02-01-2019,47.04
+378,478,Not Converted,Dealer 4,MCBs,South,Enterprise,18-05-2022,339.96
+379,479,Not Converted,Dealer 3,MCBs,Central,Retail,14-09-2022,6.79
+380,480,Not Converted,Dealer 2,MCBs,West,Enterprise,10-02-2022,3.048
+381,481,Not Converted,Dealer 1,MCBs,West,Individual,12-05-2019,4355.168
+382,482,Converted,Dealer 6,Cabels ,Central,Wholesale,25-12-2019,468.9
+383,483,Converted,Dealer 2,Modular Switches,North,Wholesale,25-03-2019,72.48
+384,484,Not Converted,Dealer 4,Modular Switches,West,Retail,27-07-2019,191.82
+385,485,Not Converted,Dealer 1,MCBs,Central,Individual,29-10-2022,39.98
+386,486,Converted,Dealer 4,Modular Switches,Central,Individual,10-07-2019,84.272
+387,487,Not Converted,Dealer 4,MCBs,South,Wholesale,15-12-2019,94.68
+388,488,Not Converted,Dealer 5,Modular Switches,Central,Wholesale,17-05-2019,1091.168
+389,489,Converted,Dealer 3, Home Automation,South,Retail,14-07-2022,7.312
+390,490,Not Converted,Dealer 5,Cabels ,East,Retail,04-08-2019,83.952
+391,491,Not Converted,Dealer 6,Electrical fans,Central,Small Business,11-07-2022,8.808
+392,492,Converted,Dealer 3,MCBs,West,Wholesale,11-07-2019,63.94
+393,493,Not Converted,Dealer 3, Home Automation,South,Retail,23-12-2022,60.6
+394,494,Not Converted,Dealer 5, Home Automation,East,Individual,28-11-2022,279.95
+395,495,Not Converted,Dealer 3,Cabels ,North,Small Business,25-04-2019,24.27
+396,496,Not Converted,Dealer 1,Cabels ,North,Wholesale,09-10-2022,278.4
+397,497,Not Converted,Dealer 4,MCBs,North,Retail,06-09-2019,116
+398,498,Converted,Dealer 1,MCBs,South,Wholesale,22-07-2019,11.68
+399,499,Not Converted,Dealer 2, Home Automation,Central,Small Business,14-06-2022,8.952
+400,500,Converted,Dealer 2, Home Automation,South,Enterprise,12-03-2022,8.856
+401,501,Converted,Dealer 2,Cabels ,North,Wholesale,28-06-2019,85.246
+402,502,Not Converted,Dealer 1,MCBs,Central,Wholesale,08-06-2022,43.6
+403,503,Not Converted,Dealer 4,MCBs,East,Wholesale,06-04-2019,31.86
+404,504,Converted,Dealer 2, Home Automation,North,Wholesale,30-10-2022,33.024
+405,505,Converted,Dealer 3,Electrical fans,West,Retail,27-09-2022,67.136
+406,506,Not Converted,Dealer 2, Home Automation,Central,Enterprise,09-07-2019,14.136
+407,507,Converted,Dealer 6,Electrical fans,South,Individual,11-01-2019,207.48
+408,508,Converted,Dealer 3,MCBs,South,Wholesale,10-04-2019,14.624
+409,509,Converted,Dealer 3, Home Automation,West,Individual,01-01-2022,55.36
+410,510,Converted,Dealer 3,Cabels ,South,Retail,16-10-2019,519.68
+411,511,Converted,Dealer 2,Modular Switches,West,Enterprise,03-06-2019,276.784
+412,512,Converted,Dealer 3,MCBs,North,Small Business,24-01-2019,3347.37
+413,513,Not Converted,Dealer 6,MCBs,North,Small Business,09-07-2022,22.428
+414,514,Converted,Dealer 1, Home Automation,South,Small Business,20-01-2022,39.872
+415,515,Not Converted,Dealer 6,Modular Switches,Central,Small Business,27-09-2019,224.75
+416,516,Not Converted,Dealer 4,Modular Switches,South,Small Business,08-01-2019,1.908
+417,517,Converted,Dealer 3,Modular Switches,North,Enterprise,28-09-2019,15.136
+418,518,Not Converted,Dealer 6, Home Automation,Central,Wholesale,02-09-2022,466.768
+419,519,Not Converted,Dealer 2, Home Automation,West,Small Business,25-11-2022,15.232
+420,520,Not Converted,Dealer 5,Electrical fans,North,Wholesale,06-03-2022,146.952
+421,521,Converted,Dealer 6,Electrical fans,West,Individual,06-11-2019,83.136
+422,522,Converted,Dealer 3,Electrical fans,East,Wholesale,06-07-2019,40.48
+423,523,Converted,Dealer 2,Cabels ,Central,Individual,01-02-2019,437.85
+424,524,Converted,Dealer 3,MCBs,North,Wholesale,14-07-2022,673.568
+425,525,Not Converted,Dealer 4,Electrical fans,West,Individual,21-06-2019,841.568
+426,526,Converted,Dealer 6,Cabels ,West,Wholesale,01-12-2019,20.416
+427,527,Converted,Dealer 3,Cabels ,West,Wholesale,25-05-2019,17.48
+428,528,Not Converted,Dealer 4, Home Automation,South,Enterprise,19-07-2019,121.78
+429,529,Converted,Dealer 2,Modular Switches,South,Individual,07-06-2022,73.584
+430,530,Converted,Dealer 5,Modular Switches,East,Wholesale,20-09-2019,232.4
+431,531,Converted,Dealer 6,Electrical fans,East,Enterprise,17-10-2022,4.616
+432,532,Not Converted,Dealer 4,MCBs,West,Enterprise,27-11-2022,350.98
+433,533,Converted,Dealer 6,MCBs,South,Individual,24-02-2019,5.352
+434,534,Not Converted,Dealer 2,MCBs,Central,Wholesale,19-10-2019,99.372
+435,535,Not Converted,Dealer 2,Cabels ,Central,Enterprise,26-11-2022,631.782
+436,536,Not Converted,Dealer 6,Cabels ,West,Small Business,24-04-2022,60.72
+437,537,Not Converted,Dealer 3,Cabels ,South,Small Business,09-04-2022,801.568
+438,538,Not Converted,Dealer 3, Home Automation,Central,Small Business,20-06-2019,885.528
+439,539,Converted,Dealer 2,Cabels ,South,Wholesale,06-11-2019,239.984
+440,540,Not Converted,Dealer 3,MCBs,East,Small Business,10-03-2022,701.372
+441,541,Not Converted,Dealer 4,MCBs,West,Retail,14-02-2022,2.308
+442,542,Not Converted,Dealer 1,Modular Switches,West,Individual,13-05-2022,49.53
+443,543,Converted,Dealer 6,MCBs,South,Retail,02-07-2022,872.32
+444,544,Not Converted,Dealer 4,Cabels ,South,Retail,02-02-2022,249.95
+445,545,Not Converted,Dealer 2,Cabels ,North,Small Business,26-07-2022,11.952
+446,546,Converted,Dealer 1,Electrical fans,Central,Individual,20-04-2022,8.928
+447,547,Not Converted,Dealer 2, Home Automation,East,Enterprise,13-05-2019,271.984
+448,548,Not Converted,Dealer 1,MCBs,Central,Retail,16-07-2022,48.64
+449,549,Converted,Dealer 4, Home Automation,North,Enterprise,12-04-2022,393.25
+450,550,Not Converted,Dealer 1,MCBs,South,Enterprise,02-02-2022,7.506
+451,551,Converted,Dealer 3,Modular Switches,Central,Wholesale,08-08-2019,68.432
+452,552,Not Converted,Dealer 4,Modular Switches,West,Individual,20-10-2019,532.704
+453,553,Not Converted,Dealer 5, Home Automation,Central,Individual,02-02-2019,368.97
+454,554,Not Converted,Dealer 2,Cabels ,South,Retail,05-11-2019,10.528
+455,555,Converted,Dealer 3,Electrical fans,Central,Wholesale,17-05-2019,28
+456,556,Converted,Dealer 6,MCBs,North,Wholesale,23-06-2019,12.201
+457,557,Converted,Dealer 5,MCBs,East,Wholesale,01-10-2019,155.372
+458,558,Converted,Dealer 3,Electrical fans,South,Individual,20-12-2019,63.2
+459,559,Not Converted,Dealer 6, Home Automation,West,Individual,28-08-2019,21.44
+460,560,Converted,Dealer 4, Home Automation,North,Small Business,20-09-2022,127.95
+461,561,Converted,Dealer 1,MCBs,South,Individual,20-02-2022,442.372
+462,562,Converted,Dealer 6,Modular Switches,West,Individual,11-01-2019,563.24
+463,563,Not Converted,Dealer 1,Electrical fans,West,Wholesale,15-08-2022,286.256
+464,564,Not Converted,Dealer 6,MCBs,South,Enterprise,13-09-2019,44.736
+465,565,Not Converted,Dealer 5,Modular Switches,North,Retail,14-03-2022,483.136
+466,566,Not Converted,Dealer 4, Home Automation,West,Enterprise,14-01-2022,747.558
+467,567,Not Converted,Dealer 3,Modular Switches,East,Retail,02-08-2022,431.976
+468,568,Converted,Dealer 6,Cabels ,North,Small Business,03-11-2019,2.907
+469,569,Converted,Dealer 1,MCBs,West,Individual,19-05-2019,209.97
+470,570,Not Converted,Dealer 5,Electrical fans,South,Retail,23-03-2022,62.94
+471,571,Not Converted,Dealer 3,Modular Switches,South,Retail,25-04-2019,27.24
+472,572,Converted,Dealer 1, Home Automation,North,Retail,17-10-2019,36.24
+473,573,Not Converted,Dealer 4,Modular Switches,West,Retail,04-03-2022,1.964
+474,574,Not Converted,Dealer 1, Home Automation,West,Individual,05-01-2019,194.848
+475,575,Converted,Dealer 4,Cabels ,North,Enterprise,26-07-2019,69.9
+476,576,Not Converted,Dealer 3, Home Automation,North,Retail,02-03-2019,41.85
+477,577,Not Converted,Dealer 3,Electrical fans,North,Wholesale,13-01-2019,5.388
+478,578,Not Converted,Dealer 1,Cabels ,East,Retail,27-12-2019,61.44
+479,579,Not Converted,Dealer 4,Modular Switches,East,Individual,01-03-2022,54.792
+480,580,Converted,Dealer 6,MCBs,East,Wholesale,24-09-2019,735.98
+481,581,Not Converted,Dealer 3, Home Automation,South,Individual,30-09-2022,34.37
+482,582,Converted,Dealer 6,Electrical fans,East,Small Business,26-06-2019,599.292
+483,583,Not Converted,Dealer 6,MCBs,East,Individual,11-02-2022,915.136
+484,584,Not Converted,Dealer 2,MCBs,East,Wholesale,14-03-2022,30.4
+485,585,Not Converted,Dealer 1,Cabels ,West,Enterprise,08-11-2022,52.68
+486,586,Converted,Dealer 1,Modular Switches,Central,Wholesale,21-03-2022,11.568
+487,587,Not Converted,Dealer 1,MCBs,East,Enterprise,10-08-2022,17.904
+488,588,Not Converted,Dealer 5,Electrical fans,North,Wholesale,16-06-2019,11.976
+489,589,Not Converted,Dealer 3, Home Automation,East,Retail,10-04-2022,67.96
+490,590,Converted,Dealer 3, Home Automation,Central,Individual,14-04-2022,27.264
+491,591,Not Converted,Dealer 2, Home Automation,South,Small Business,25-08-2022,23.976
+492,592,Converted,Dealer 2,Cabels ,South,Enterprise,29-06-2019,169.568
+493,593,Converted,Dealer 2,Electrical fans,East,Enterprise,30-01-2019,15.992
+494,594,Not Converted,Dealer 6,MCBs,North,Retail,14-07-2022,120.784
+495,595,Converted,Dealer 1,Electrical fans,North,Retail,17-07-2022,76.176
+496,596,Converted,Dealer 4,Cabels ,West,Wholesale,23-06-2019,43.12
+497,597,Not Converted,Dealer 3,Cabels ,North,Enterprise,04-11-2019,24.96
+498,598,Converted,Dealer 4,Modular Switches,West,Individual,12-09-2022,82.26
+499,599,Not Converted,Dealer 1,Electrical fans,West,Wholesale,07-08-2019,1091.93
+500,600,Converted,Dealer 1, Home Automation,North,Retail,03-10-2019,18.16
+501,601,Converted,Dealer 3,Cabels ,North,Enterprise,03-07-2022,449.97
+502,602,Not Converted,Dealer 6,Cabels ,West,Small Business,26-07-2019,1927.59
+503,603,Not Converted,Dealer 2,Modular Switches,South,Small Business,26-07-2019,307.92
+504,604,Not Converted,Dealer 6, Home Automation,East,Enterprise,02-03-2019,19.296
+505,605,Converted,Dealer 1,Cabels ,South,Individual,19-04-2022,387.136
+506,606,Not Converted,Dealer 5,MCBs,North,Enterprise,16-10-2019,7.92
+507,607,Not Converted,Dealer 6, Home Automation,Central,Individual,14-08-2019,235.152
+508,608,Not Converted,Dealer 2,Electrical fans,North,Retail,02-01-2019,4535.976
+509,609,Not Converted,Dealer 2,Modular Switches,West,Individual,22-11-2019,242.136
+510,610,Not Converted,Dealer 5,MCBs,Central,Individual,15-04-2019,19.96
+511,611,Not Converted,Dealer 5,MCBs,Central,Enterprise,21-12-2019,45.568
+512,612,Not Converted,Dealer 2,Electrical fans,East,Enterprise,13-11-2019,28.752
+513,613,Converted,Dealer 3,Modular Switches,North,Small Business,14-03-2019,16.156
+514,614,Not Converted,Dealer 3,Cabels ,East,Retail,17-04-2022,100
+515,615,Converted,Dealer 4,Modular Switches,South,Wholesale,20-06-2022,359.98
+516,616,Converted,Dealer 6,Cabels ,Central,Enterprise,04-07-2022,199.99
+517,617,Not Converted,Dealer 1,Electrical fans,East,Retail,18-07-2019,450
+518,618,Converted,Dealer 2,Electrical fans,South,Retail,16-02-2019,783.96
+519,619,Converted,Dealer 4,MCBs,North,Small Business,01-06-2019,40.2
+520,620,Converted,Dealer 3,MCBs,North,Enterprise,12-12-2022,43.92
+521,621,Converted,Dealer 2,MCBs,West,Enterprise,05-11-2019,25.032
+522,622,Converted,Dealer 6,Electrical fans,South,Retail,11-06-2022,67.136
+523,623,Converted,Dealer 3,Cabels ,South,Enterprise,01-07-2019,427.644
+524,624,Converted,Dealer 5,Electrical fans,East,Small Business,07-09-2019,9.728
+525,625,Converted,Dealer 2,Electrical fans,Central,Small Business,30-03-2019,302.376
+526,626,Converted,Dealer 4,MCBs,Central,Small Business,27-12-2022,49.536
+527,627,Converted,Dealer 1,Modular Switches,West,Enterprise,19-11-2022,47.952
+528,628,Not Converted,Dealer 2,MCBs,West,Enterprise,18-07-2019,37.425
+529,629,Converted,Dealer 2,Modular Switches,West,Small Business,29-11-2022,63.968
+530,630,Converted,Dealer 2,Cabels ,South,Individual,16-01-2019,165.048
+531,631,Not Converted,Dealer 2,Cabels ,North,Wholesale,27-02-2019,38.19
+532,632,Not Converted,Dealer 2, Home Automation,North,Retail,11-10-2019,756.8
+533,633,Not Converted,Dealer 1, Home Automation,East,Individual,17-03-2019,11.744
+534,634,Converted,Dealer 6, Home Automation,Central,Wholesale,28-11-2022,28.752
+535,635,Converted,Dealer 6,Cabels ,Central,Enterprise,16-09-2019,1403.92
+536,636,Converted,Dealer 1,MCBs,East,Retail,04-09-2022,68.112
+537,637,Not Converted,Dealer 6,MCBs,South,Individual,31-07-2019,27.24
+538,638,Converted,Dealer 4,MCBs,North,Retail,13-07-2019,217.584
+539,639,Converted,Dealer 4,Electrical fans,West,Enterprise,08-08-2022,82.95
+540,640,Not Converted,Dealer 1, Home Automation,North,Wholesale,20-01-2019,1101.48
+541,641,Not Converted,Dealer 4,MCBs,East,Wholesale,18-07-2019,43.32
+542,642,Not Converted,Dealer 1, Home Automation,North,Wholesale,18-09-2022,43.584
+543,643,Converted,Dealer 4, Home Automation,West,Individual,04-01-2019,9.296
+544,644,Converted,Dealer 3,Electrical fans,Central,Wholesale,09-04-2019,38.29
+545,645,Converted,Dealer 1,Cabels ,East,Individual,04-04-2019,50.496
+546,646,Converted,Dealer 2,MCBs,South,Individual,11-02-2019,7.712
+547,647,Not Converted,Dealer 4,Electrical fans,North,Small Business,01-01-2022,4.176
+548,648,Converted,Dealer 3,Cabels ,North,Individual,05-02-2022,29.12
+549,649,Converted,Dealer 1,Cabels ,South,Retail,19-10-2022,104.9
+550,650,Not Converted,Dealer 4,MCBs,South,Wholesale,03-09-2019,53.248
+551,651,Not Converted,Dealer 2, Home Automation,West,Individual,17-01-2022,72
+552,652,Not Converted,Dealer 4,Modular Switches,North,Enterprise,15-06-2019,113.888
+553,653,Converted,Dealer 3, Home Automation,East,Individual,19-05-2022,81.424
+554,654,Not Converted,Dealer 6, Home Automation,North,Individual,06-11-2022,238.56
+555,655,Converted,Dealer 6,Modular Switches,West,Small Business,07-01-2022,207.984
+556,656,Not Converted,Dealer 3,Cabels ,East,Retail,04-11-2022,35.568
+557,657,Not Converted,Dealer 5,Modular Switches,East,Enterprise,16-08-2022,37.44
+558,658,Converted,Dealer 1,Modular Switches,East,Small Business,08-08-2022,26.976
+559,659,Not Converted,Dealer 6,Electrical fans,West,Retail,19-11-2022,14.82
+560,660,Not Converted,Dealer 1,Electrical fans,North,Individual,23-01-2022,119.976
+561,661,Not Converted,Dealer 5,Electrical fans,Central,Enterprise,08-12-2019,263.96
+562,662,Converted,Dealer 3,Cabels ,East,Retail,10-10-2022,359.97
+563,663,Not Converted,Dealer 1,Modular Switches,South,Small Business,21-07-2019,276.784
+564,664,Converted,Dealer 5,MCBs,West,Individual,08-06-2019,479.97
+565,665,Not Converted,Dealer 1,Modular Switches,East,Individual,24-07-2019,57.584
+566,666,Not Converted,Dealer 4,Cabels ,West,Wholesale,08-08-2019,479.97
+567,667,Not Converted,Dealer 4,Electrical fans,South,Small Business,09-08-2019,70.008
+568,668,Not Converted,Dealer 2,Cabels ,East,Enterprise,08-06-2022,13.216
+569,669,Not Converted,Dealer 6,Electrical fans,North,Individual,07-04-2022,41.958
+570,670,Not Converted,Dealer 2,Cabels ,West,Wholesale,08-02-2022,334.88
+571,671,Converted,Dealer 5,MCBs,East,Retail,17-04-2019,148.288
+572,672,Converted,Dealer 4,Electrical fans,East,Individual,31-12-2022,178.92
+573,673,Not Converted,Dealer 1,Electrical fans,West,Retail,09-06-2022,69.888
+574,674,Not Converted,Dealer 3,Modular Switches,South,Individual,22-05-2022,37.3
+575,675,Converted,Dealer 4,Cabels ,West,Retail,29-09-2022,81.96
+576,676,Not Converted,Dealer 4, Home Automation,Central,Small Business,11-01-2019,20.368
+577,677,Not Converted,Dealer 1, Home Automation,North,Retail,20-08-2019,49.848
+578,678,Not Converted,Dealer 4,Modular Switches,South,Retail,13-09-2022,129.92
+579,679,Converted,Dealer 4,Cabels ,North,Individual,27-08-2022,467.46
+580,680,Not Converted,Dealer 5,MCBs,North,Individual,20-09-2022,5.184
+581,681,Not Converted,Dealer 4,Modular Switches,West,Retail,04-11-2022,9.98
+582,682,Converted,Dealer 6,Electrical fans,Central,Small Business,05-04-2022,3.64
+583,683,Not Converted,Dealer 6,MCBs,East,Enterprise,08-08-2019,881.93
+584,684,Converted,Dealer 6,Cabels ,Central,Wholesale,14-02-2019,59.97
+585,685,Not Converted,Dealer 6,Electrical fans,South,Retail,06-08-2019,95.968
+586,686,Not Converted,Dealer 4, Home Automation,Central,Small Business,11-08-2022,47.992
+587,687,Not Converted,Dealer 3,Cabels ,North,Retail,21-03-2022,6.96
+588,688,Not Converted,Dealer 6,Electrical fans,East,Wholesale,29-11-2022,9.888
+589,689,Not Converted,Dealer 6,Cabels ,Central,Enterprise,10-05-2019,671.544
+590,690,Converted,Dealer 4,Electrical fans,East,Enterprise,27-06-2022,36
+591,691,Converted,Dealer 2,Cabels ,Central,Retail,15-05-2019,245.646
+592,692,Converted,Dealer 5, Home Automation,East,Wholesale,08-12-2019,55.008
+593,693,Converted,Dealer 1,Modular Switches,Central,Retail,21-12-2019,35.232
+594,694,Not Converted,Dealer 6,Electrical fans,South,Individual,14-08-2019,41.96
+595,695,Not Converted,Dealer 1,Electrical fans,East,Enterprise,08-04-2022,451.152
+596,696,Converted,Dealer 6, Home Automation,West,Small Business,02-09-2019,31.504
+597,697,Not Converted,Dealer 2,Modular Switches,North,Small Business,20-10-2019,6.27
+598,698,Not Converted,Dealer 3,Cabels ,East,Small Business,04-11-2022,4.368
+599,699,Not Converted,Dealer 2,Electrical fans,North,Wholesale,08-02-2022,31.984
+600,700,Converted,Dealer 4,Modular Switches,Central,Wholesale,14-08-2019,37.68
+601,701,Converted,Dealer 4,Cabels ,Central,Enterprise,26-01-2019,17.38
+602,702,Not Converted,Dealer 1,Electrical fans,Central,Wholesale,22-03-2022,1474.802
+603,703,Converted,Dealer 5,Electrical fans,Central,Individual,27-02-2022,110.096
+604,704,Not Converted,Dealer 4,Cabels ,Central,Enterprise,09-12-2022,1537.074
+605,705,Converted,Dealer 4, Home Automation,South,Enterprise,23-12-2022,449.372
+606,706,Not Converted,Dealer 4,Modular Switches,North,Individual,21-03-2019,203.976
+607,707,Not Converted,Dealer 6,Electrical fans,East,Individual,03-03-2019,22.752
+608,708,Not Converted,Dealer 2,Cabels ,South,Individual,04-05-2022,3.136
+609,709,Not Converted,Dealer 6,Electrical fans,South,Retail,21-08-2022,2279.96
+610,710,Not Converted,Dealer 3,Cabels ,South,Small Business,31-10-2019,499.98
+611,711,Not Converted,Dealer 6,Electrical fans,South,Small Business,09-09-2019,8.26
+612,712,Not Converted,Dealer 4,MCBs,South,Enterprise,12-01-2022,408.006
+613,713,Not Converted,Dealer 6, Home Automation,North,Individual,12-10-2019,19.92
+614,714,Not Converted,Dealer 1,Modular Switches,East,Wholesale,10-10-2019,13.98
+615,715,Not Converted,Dealer 5, Home Automation,North,Individual,27-01-2019,99.39
+616,716,Not Converted,Dealer 5, Home Automation,East,Enterprise,25-02-2022,1016.792
+617,717,Converted,Dealer 6,Modular Switches,South,Small Business,09-11-2022,38.136
+618,718,Converted,Dealer 5, Home Automation,South,Retail,21-06-2019,361.376
+619,719,Converted,Dealer 1,MCBs,Central,Individual,12-02-2022,8.32
+620,720,Not Converted,Dealer 1,Cabels ,West,Small Business,23-11-2022,103.968
+621,721,Converted,Dealer 6,Modular Switches,West,Enterprise,07-07-2019,61.192
+622,722,Converted,Dealer 4,Cabels ,North,Enterprise,02-08-2019,67.84
+623,723,Converted,Dealer 5,Electrical fans,North,Small Business,03-06-2022,1319.96
+624,724,Converted,Dealer 3,MCBs,East,Small Business,01-12-2022,595
+625,725,Not Converted,Dealer 1,Cabels ,Central,Individual,30-05-2019,61.12
+626,726,Not Converted,Dealer 3,Cabels ,East,Wholesale,16-12-2019,14.352
+627,727,Not Converted,Dealer 5,Modular Switches,Central,Individual,15-08-2022,17.712
+628,728,Converted,Dealer 6,Electrical fans,West,Retail,06-06-2022,54.96
+629,729,Converted,Dealer 1,Modular Switches,West,Small Business,21-02-2022,8.74
+630,730,Not Converted,Dealer 3,Electrical fans,Central,Retail,21-11-2019,255.984
+631,731,Converted,Dealer 1,Modular Switches,East,Retail,07-02-2019,2.628
+632,732,Not Converted,Dealer 3,Cabels ,North,Wholesale,02-04-2019,14.427
+633,733,Converted,Dealer 4,Cabels ,Central,Individual,02-09-2019,4.91
+634,734,Not Converted,Dealer 4,MCBs,Central,Enterprise,13-08-2019,39
+635,735,Converted,Dealer 5,Cabels ,Central,Retail,01-06-2019,128.4
+636,736,Converted,Dealer 2, Home Automation,East,Retail,03-04-2022,244.768
+637,737,Not Converted,Dealer 1,Cabels ,North,Retail,16-08-2022,27.88
+638,738,Converted,Dealer 5, Home Automation,East,Retail,19-03-2019,404.94
+639,739,Converted,Dealer 3,Cabels ,South,Enterprise,24-10-2022,127.554
+640,740,Not Converted,Dealer 6, Home Automation,South,Individual,08-02-2019,77.952
+641,741,Converted,Dealer 4, Home Automation,Central,Wholesale,01-06-2022,81.576
+642,742,Not Converted,Dealer 5,Cabels ,Central,Retail,16-05-2022,39.88
+643,743,Converted,Dealer 6, Home Automation,Central,Small Business,11-12-2022,12.192
+644,744,Converted,Dealer 5,MCBs,North,Enterprise,26-03-2022,134.272
+645,745,Not Converted,Dealer 2,Electrical fans,North,Wholesale,03-05-2019,17.216
+646,746,Not Converted,Dealer 3, Home Automation,Central,Small Business,09-08-2019,88.4
+647,747,Not Converted,Dealer 2, Home Automation,North,Small Business,20-02-2022,33.52
+648,748,Not Converted,Dealer 4,MCBs,West,Small Business,16-07-2019,9.94
+649,749,Not Converted,Dealer 6,MCBs,Central,Retail,13-02-2019,659.9
+650,750,Converted,Dealer 4,Modular Switches,West,Individual,26-09-2022,1684.752
+651,751,Converted,Dealer 4,Electrical fans,East,Retail,29-03-2022,559.92
+652,752,Not Converted,Dealer 3,Modular Switches,West,Small Business,13-02-2019,139.96
+653,753,Not Converted,Dealer 1, Home Automation,East,Wholesale,29-05-2019,42.384
+654,754,Converted,Dealer 1,MCBs,East,Retail,21-03-2019,456.588
+655,755,Converted,Dealer 3, Home Automation,Central,Wholesale,16-12-2019,59.976
+656,756,Not Converted,Dealer 6,Cabels ,Central,Retail,14-05-2022,194.352
+657,757,Not Converted,Dealer 2,Electrical fans,East,Individual,19-05-2022,91.68
+658,758,Converted,Dealer 6,Cabels ,North,Individual,08-05-2019,33.75
+659,759,Converted,Dealer 2,MCBs,South,Retail,27-07-2019,3.744
+660,760,Converted,Dealer 1,MCBs,West,Retail,22-07-2022,64.96
+661,761,Converted,Dealer 4,MCBs,East,Individual,15-05-2019,595.38
+662,762,Not Converted,Dealer 4,Electrical fans,South,Wholesale,09-02-2019,62.4
+663,763,Converted,Dealer 6,Modular Switches,Central,Individual,30-10-2019,271.992
+664,764,Converted,Dealer 3, Home Automation,Central,Retail,09-08-2019,34.95
+665,765,Converted,Dealer 2, Home Automation,East,Wholesale,20-07-2022,152
+666,766,Not Converted,Dealer 4, Home Automation,North,Retail,29-07-2019,116.76
+667,767,Converted,Dealer 6, Home Automation,East,Enterprise,23-09-2019,7.434
+668,768,Not Converted,Dealer 3, Home Automation,West,Retail,21-06-2019,182.67
+669,769,Not Converted,Dealer 5,Modular Switches,South,Individual,10-09-2022,101.7
+670,770,Not Converted,Dealer 3,Cabels ,North,Small Business,06-09-2022,242.176
+671,771,Not Converted,Dealer 1,Electrical fans,East,Individual,15-03-2022,31.96
+672,772,Not Converted,Dealer 6,Cabels ,West,Individual,30-09-2022,17.31
+673,773,Not Converted,Dealer 3,Cabels ,West,Wholesale,17-03-2019,16.74
+674,774,Converted,Dealer 6, Home Automation,North,Enterprise,28-11-2022,629.95
+675,775,Converted,Dealer 1, Home Automation,West,Wholesale,03-12-2019,415.176
+676,776,Converted,Dealer 5,Modular Switches,West,Retail,13-08-2019,165.6
+677,777,Converted,Dealer 4,Electrical fans,West,Small Business,02-04-2022,115.84
+678,778,Not Converted,Dealer 1,MCBs,West,Individual,26-04-2022,104.184
+679,779,Converted,Dealer 2,Cabels ,East,Small Business,19-11-2019,72.42
+680,780,Converted,Dealer 2,MCBs,North,Small Business,28-02-2019,59.7
+681,781,Converted,Dealer 4,Electrical fans,South,Retail,10-03-2019,35.232
+682,782,Converted,Dealer 4,Cabels ,South,Retail,10-01-2019,24.704
+683,783,Converted,Dealer 3,MCBs,West,Small Business,23-12-2022,14.52
+684,784,Converted,Dealer 5,MCBs,East,Individual,15-07-2022,1649.95
+685,785,Converted,Dealer 4,Modular Switches,West,Retail,25-11-2022,542.646
+686,786,Not Converted,Dealer 2,Electrical fans,West,Individual,19-12-2022,111.9
+687,787,Not Converted,Dealer 3,Electrical fans,East,Retail,01-09-2019,29.98
+688,788,Not Converted,Dealer 1,Electrical fans,Central,Individual,03-11-2019,113.79
+689,789,Not Converted,Dealer 3,Cabels ,North,Individual,25-01-2022,78.15
+690,790,Converted,Dealer 3,Modular Switches,South,Enterprise,09-11-2022,15.528
+691,791,Converted,Dealer 3, Home Automation,East,Retail,23-06-2022,1.728
+692,792,Not Converted,Dealer 6,Cabels ,South,Enterprise,25-12-2022,13.4
+693,793,Not Converted,Dealer 1,Electrical fans,East,Small Business,24-09-2019,968.744
+694,794,Not Converted,Dealer 4,Cabels ,East,Individual,29-03-2019,437.472
+695,795,Converted,Dealer 2,MCBs,Central,Individual,01-10-2019,271.96
+696,796,Converted,Dealer 2,Cabels ,West,Wholesale,30-05-2022,249.584
+697,797,Not Converted,Dealer 4,Cabels ,North,Retail,28-03-2019,222.352
+698,798,Converted,Dealer 6,Electrical fans,Central,Small Business,15-02-2022,13.376
+699,799,Not Converted,Dealer 2,MCBs,South,Small Business,28-08-2022,12.957
+700,800,Converted,Dealer 3,Electrical fans,North,Retail,24-07-2022,273.92
+701,801,Converted,Dealer 2,MCBs,West,Wholesale,03-12-2019,19.04
+702,802,Converted,Dealer 1,MCBs,Central,Wholesale,18-01-2019,4.356
+703,803,Not Converted,Dealer 1,MCBs,East,Retail,09-06-2022,1424.9
+704,804,Converted,Dealer 4,Electrical fans,South,Individual,29-03-2022,679.96
+705,805,Converted,Dealer 6,MCBs,Central,Individual,26-04-2022,321.568
+706,806,Converted,Dealer 6,Modular Switches,Central,Small Business,25-02-2022,1029.95
+707,807,Converted,Dealer 2,Modular Switches,North,Retail,06-09-2022,458.43
+708,808,Not Converted,Dealer 6, Home Automation,South,Individual,28-09-2019,387.136
+709,809,Not Converted,Dealer 6,Modular Switches,South,Wholesale,01-06-2022,363.92
+710,810,Not Converted,Dealer 2, Home Automation,South,Retail,22-10-2022,300.768
+711,811,Converted,Dealer 1,Modular Switches,North,Small Business,15-01-2022,209.6
+712,812,Not Converted,Dealer 3,Electrical fans,South,Individual,18-12-2022,122.688
+713,813,Not Converted,Dealer 4, Home Automation,North,Individual,12-12-2019,119.96
+714,814,Not Converted,Dealer 1,Cabels ,East,Wholesale,24-04-2022,119.8
+715,815,Not Converted,Dealer 6,Cabels ,North,Individual,09-11-2022,83.42
+716,816,Not Converted,Dealer 6,Modular Switches,West,Individual,06-04-2019,73.536
+717,817,Not Converted,Dealer 2,Cabels ,South,Wholesale,28-04-2019,35.808
+718,818,Converted,Dealer 4,Modular Switches,West,Wholesale,24-01-2022,5.872
+719,819,Converted,Dealer 3,Modular Switches,West,Small Business,06-12-2022,383.952
+720,820,Not Converted,Dealer 2,Cabels ,East,Retail,03-08-2022,383.64
+721,821,Not Converted,Dealer 2,Cabels ,Central,Individual,05-07-2019,249.95
+722,822,Not Converted,Dealer 3,MCBs,East,Individual,05-08-2022,60.35
+723,823,Converted,Dealer 3, Home Automation,North,Wholesale,28-07-2022,56.52
+724,824,Converted,Dealer 6,Modular Switches,North,Small Business,14-07-2019,18.693
+725,825,Converted,Dealer 2,Cabels ,South,Individual,20-06-2019,6.096
+726,826,Converted,Dealer 1, Home Automation,West,Small Business,22-09-2022,396.92
+727,827,Not Converted,Dealer 1,Cabels ,East,Enterprise,16-07-2019,81.424
+728,828,Converted,Dealer 2,Cabels ,Central,Wholesale,10-05-2019,23.12
+729,829,Converted,Dealer 3,MCBs,East,Individual,30-09-2019,14.76
+730,830,Not Converted,Dealer 5,Modular Switches,South,Small Business,25-05-2022,2.214
+731,831,Not Converted,Dealer 3,Modular Switches,East,Retail,13-12-2019,563.92
+732,832,Not Converted,Dealer 3,Electrical fans,Central,Small Business,17-12-2019,21.21
+733,833,Converted,Dealer 4,MCBs,Central,Small Business,16-11-2019,4.788
+734,834,Not Converted,Dealer 3, Home Automation,West,Enterprise,19-01-2022,772.47
+735,835,Not Converted,Dealer 4,MCBs,West,Individual,21-01-2019,254.058
+736,836,Converted,Dealer 2, Home Automation,South,Individual,20-08-2019,194.528
+737,837,Not Converted,Dealer 4,Modular Switches,West,Wholesale,11-11-2019,183.84
+738,838,Not Converted,Dealer 1,Electrical fans,North,Small Business,24-06-2019,72.64
+739,839,Not Converted,Dealer 4,Electrical fans,West,Retail,14-02-2022,66.976
+740,840,Not Converted,Dealer 3,Modular Switches,North,Enterprise,19-09-2022,39.92
+741,841,Not Converted,Dealer 2,Cabels ,East,Small Business,24-06-2022,34.248
+742,842,Converted,Dealer 4,MCBs,North,Retail,03-03-2022,10.44
+743,843,Converted,Dealer 3,Electrical fans,South,Wholesale,18-10-2022,5.214
+744,844,Not Converted,Dealer 4,Cabels ,Central,Enterprise,25-07-2022,1.8
+745,845,Not Converted,Dealer 5, Home Automation,South,Individual,15-12-2019,842.72
+746,846,Not Converted,Dealer 2,Electrical fans,South,Individual,25-09-2019,41.96
+747,847,Not Converted,Dealer 1, Home Automation,South,Small Business,05-10-2022,25.584
+748,848,Not Converted,Dealer 5,Cabels ,South,Enterprise,24-02-2022,5.553
+749,849,Converted,Dealer 3, Home Automation,West,Retail,22-04-2019,799.56
+750,850,Not Converted,Dealer 2,Cabels ,East,Wholesale,02-11-2019,197.97
+751,851,Converted,Dealer 2, Home Automation,Central,Wholesale,09-01-2022,43.96
+752,852,Not Converted,Dealer 3,MCBs,North,Individual,10-03-2022,575.944
+753,853,Not Converted,Dealer 3,Electrical fans,North,Individual,02-02-2019,1563.056
+754,854,Not Converted,Dealer 2,Electrical fans,East,Wholesale,08-11-2019,866.646
+755,855,Converted,Dealer 2,Cabels ,South,Individual,05-10-2022,254.24
+756,856,Not Converted,Dealer 4, Home Automation,South,Wholesale,10-11-2019,100.8
+757,857,Converted,Dealer 2,Modular Switches,Central,Small Business,07-11-2019,47.968
+758,858,Not Converted,Dealer 1,Electrical fans,North,Retail,04-01-2019,45.12
+759,859,Not Converted,Dealer 1, Home Automation,South,Enterprise,21-04-2022,33.568
+760,860,Converted,Dealer 1, Home Automation,West,Small Business,20-01-2022,302.384
+761,861,Converted,Dealer 1,MCBs,Central,Enterprise,27-10-2022,146.352
+762,862,Not Converted,Dealer 2,Modular Switches,West,Wholesale,27-10-2019,89.97
+763,863,Not Converted,Dealer 4,Electrical fans,West,Retail,31-01-2019,18.72
+764,864,Not Converted,Dealer 3,MCBs,East,Small Business,25-08-2022,7.9
+765,865,Converted,Dealer 2,Modular Switches,East,Individual,25-01-2019,4.992
+766,866,Converted,Dealer 6,Electrical fans,West,Enterprise,05-06-2019,845.488
+767,867,Not Converted,Dealer 2,MCBs,East,Enterprise,28-12-2019,40
+768,868,Converted,Dealer 1,Modular Switches,West,Individual,12-04-2022,81.96
+769,869,Not Converted,Dealer 6,Electrical fans,South,Small Business,20-11-2022,70.56
+770,870,Not Converted,Dealer 2,Modular Switches,East,Individual,12-05-2019,11.232
+771,871,Not Converted,Dealer 4, Home Automation,West,Enterprise,04-09-2019,6.384
+772,872,Converted,Dealer 4,Cabels ,Central,Individual,29-06-2019,302.376
+773,873,Converted,Dealer 6,Cabels ,Central,Enterprise,01-04-2022,159.768
+774,874,Converted,Dealer 3, Home Automation,East,Small Business,10-07-2022,38.376
+775,875,Converted,Dealer 6,Modular Switches,Central,Retail,23-07-2022,487.43
+776,876,Not Converted,Dealer 4, Home Automation,North,Small Business,28-05-2019,145.896
+777,877,Converted,Dealer 6,Cabels ,North,Individual,14-04-2019,115.59
+778,878,Not Converted,Dealer 1,Cabels ,Central,Individual,29-07-2019,2057.272
+779,879,Converted,Dealer 1,Modular Switches,West,Small Business,23-01-2022,147.74
+780,880,Converted,Dealer 3,Cabels ,Central,Retail,10-02-2022,93.808
+781,881,Converted,Dealer 6, Home Automation,Central,Enterprise,11-09-2022,164.68
+782,882,Not Converted,Dealer 6,Modular Switches,Central,Individual,27-06-2019,188.8
+783,883,Converted,Dealer 6, Home Automation,West,Individual,09-11-2022,194.064
+784,884,Converted,Dealer 5,Modular Switches,West,Small Business,08-12-2022,89.96
+785,885,Not Converted,Dealer 3,Cabels ,North,Enterprise,17-05-2019,102.12
+786,886,Not Converted,Dealer 4,Electrical fans,East,Enterprise,07-02-2019,168.8
+787,887,Not Converted,Dealer 5,Modular Switches,North,Individual,10-06-2022,141.92
+788,888,Not Converted,Dealer 5,Modular Switches,West,Enterprise,19-01-2022,184.776
+789,889,Not Converted,Dealer 4,Electrical fans,West,Small Business,22-12-2022,240.846
+790,890,Not Converted,Dealer 4,Cabels ,West,Retail,02-12-2019,394.976
+791,891,Converted,Dealer 4, Home Automation,West,Wholesale,27-12-2022,132.984
+792,892,Not Converted,Dealer 6,MCBs,West,Retail,30-12-2022,109.938
+793,893,Converted,Dealer 3,Electrical fans,West,Small Business,03-10-2019,149.352
+794,894,Not Converted,Dealer 4,MCBs,South,Retail,06-11-2022,311.784
+795,895,Converted,Dealer 2,Cabels ,South,Wholesale,30-08-2022,131.86
+796,896,Converted,Dealer 2,Modular Switches,Central,Retail,29-05-2019,100.72
+797,897,Converted,Dealer 1,Modular Switches,South,Individual,10-10-2022,2967.93
+798,898,Not Converted,Dealer 4,Cabels ,North,Small Business,05-03-2022,111.16
+799,899,Not Converted,Dealer 3, Home Automation,Central,Enterprise,03-10-2019,117.976
+800,900,Not Converted,Dealer 6, Home Automation,East,Individual,21-09-2022,154.982
+801,901,Not Converted,Dealer 1,Cabels ,West,Individual,01-02-2019,156.94
+802,902,Converted,Dealer 4,Cabels ,South,Wholesale,31-01-2022,284.97
+803,903,Not Converted,Dealer 6,Cabels ,North,Retail,23-07-2019,470.91
+804,904,Not Converted,Dealer 3,Cabels ,East,Small Business,14-10-2022,135.74
+805,905,Not Converted,Dealer 3,Cabels ,West,Wholesale,19-08-2022,167.616
+806,906,Converted,Dealer 1,Cabels ,West,Wholesale,05-06-2022,127.91
+807,907,Not Converted,Dealer 1,Modular Switches,East,Retail,16-12-2022,114.128
+808,908,Not Converted,Dealer 4,MCBs,East,Small Business,07-02-2019,145.784
+809,909,Not Converted,Dealer 6, Home Automation,East,Individual,04-11-2019,224
+810,910,Not Converted,Dealer 2,MCBs,North,Small Business,21-05-2022,437.136
+811,911,Not Converted,Dealer 5,Modular Switches,Central,Wholesale,31-03-2022,2015.168
+812,912,Not Converted,Dealer 3,Electrical fans,Central,Wholesale,27-01-2019,111.71
+813,913,Not Converted,Dealer 3,MCBs,South,Enterprise,18-06-2019,116.28
+814,914,Converted,Dealer 4,Electrical fans,West,Retail,26-11-2019,140.58
+815,915,Converted,Dealer 2,Modular Switches,South,Enterprise,20-09-2019,162.35
+816,916,Not Converted,Dealer 4, Home Automation,Central,Wholesale,03-10-2019,100.97
+817,917,Converted,Dealer 3,Electrical fans,East,Individual,04-12-2019,107.26
+818,918,Not Converted,Dealer 3,Modular Switches,West,Wholesale,21-08-2022,242.58
+819,919,Converted,Dealer 6,Cabels ,Central,Small Business,04-03-2019,257.96
+820,920,Not Converted,Dealer 2, Home Automation,West,Small Business,04-09-2022,291.8
+821,921,Not Converted,Dealer 6,Cabels ,South,Individual,10-08-2019,936.229
+822,922,Not Converted,Dealer 6, Home Automation,Central,Individual,06-06-2022,1248.2
+823,923,Not Converted,Dealer 4, Home Automation,South,Enterprise,13-03-2019,118.882
+824,924,Converted,Dealer 6,MCBs,West,Individual,16-11-2022,138.67
+825,925,Not Converted,Dealer 1, Home Automation,North,Wholesale,12-09-2019,1666.7
+826,926,Converted,Dealer 1,MCBs,East,Retail,04-12-2022,2399.2
+827,927,Converted,Dealer 5,Electrical fans,South,Small Business,05-04-2019,256.46
+828,928,Not Converted,Dealer 2, Home Automation,West,Small Business,10-07-2019,134.24
+829,929,Converted,Dealer 6,Electrical fans,Central,Wholesale,15-05-2022,96.12
+830,930,Not Converted,Dealer 3, Home Automation,South,Retail,31-07-2022,164.568
+831,931,Converted,Dealer 3,MCBs,West,Individual,31-10-2019,840.336
+832,932,Not Converted,Dealer 2,Cabels ,North,Enterprise,22-05-2022,631.558
+833,933,Converted,Dealer 4, Home Automation,South,Retail,18-08-2019,110.692
+834,934,Converted,Dealer 1,Modular Switches,West,Wholesale,09-07-2019,104.594
+835,935,Not Converted,Dealer 1,Cabels ,South,Individual,02-12-2019,165.792
+836,936,Converted,Dealer 4,MCBs,West,Individual,27-07-2022,938.43
+837,937,Converted,Dealer 6,Modular Switches,East,Individual,22-05-2022,92.715
+838,938,Not Converted,Dealer 2,Electrical fans,West,Retail,13-11-2022,126.144
+839,939,Not Converted,Dealer 6,MCBs,West,Individual,07-12-2019,146.53
+840,940,Not Converted,Dealer 5,Cabels ,West,Retail,24-12-2019,197.976
+841,941,Not Converted,Dealer 2,Electrical fans,Central,Wholesale,21-06-2019,1259.86
+842,942,Converted,Dealer 1,Electrical fans,West,Enterprise,19-05-2022,111.67
+843,943,Not Converted,Dealer 1,MCBs,East,Retail,17-03-2019,118.704
+844,944,Not Converted,Dealer 6,Cabels ,North,Wholesale,29-05-2022,261.968
+845,945,Not Converted,Dealer 3,MCBs,East,Retail,03-11-2019,358.576
+846,946,Not Converted,Dealer 5,Modular Switches,North,Wholesale,02-08-2019,115.23
+847,947,Converted,Dealer 4,Modular Switches,Central,Enterprise,11-06-2022,131.992
+848,948,Converted,Dealer 6, Home Automation,Central,Small Business,22-11-2022,529.788
+849,949,Converted,Dealer 4,Electrical fans,Central,Enterprise,11-03-2022,106.96
+850,950,Not Converted,Dealer 1, Home Automation,North,Small Business,25-07-2019,110.92
+851,951,Converted,Dealer 6,Cabels ,East,Small Business,30-06-2019,301.576
+852,952,Converted,Dealer 1,Modular Switches,South,Individual,02-05-2022,380.79
+853,953,Not Converted,Dealer 2, Home Automation,Central,Retail,08-07-2022,911.536
+854,954,Converted,Dealer 2,Modular Switches,North,Individual,22-11-2022,940.224
+855,955,Converted,Dealer 3,Modular Switches,East,Wholesale,30-05-2022,128.648
+856,956,Not Converted,Dealer 4,Modular Switches,Central,Wholesale,31-01-2022,214.776
+857,957,Converted,Dealer 2,MCBs,West,Wholesale,23-11-2022,493.94
+858,958,Not Converted,Dealer 4, Home Automation,East,Individual,28-02-2019,93.528
+859,959,Converted,Dealer 5,Electrical fans,North,Enterprise,26-02-2019,185.352
+860,960,Converted,Dealer 6, Home Automation,South,Individual,07-11-2022,1099.44
+861,961,Not Converted,Dealer 2,Electrical fans,South,Individual,30-03-2019,253.384
+862,962,Converted,Dealer 6, Home Automation,South,Enterprise,15-10-2019,112.976
+863,963,Not Converted,Dealer 2, Home Automation,West,Enterprise,08-10-2022,153.97
+864,964,Not Converted,Dealer 4,Modular Switches,East,Enterprise,05-06-2022,133.92
+865,965,Not Converted,Dealer 2,Electrical fans,Central,Retail,12-07-2022,196.2
+866,966,Not Converted,Dealer 2,Electrical fans,East,Individual,20-04-2022,669.84
+867,967,Converted,Dealer 1,Electrical fans,South,Retail,15-05-2022,234.98
+868,968,Converted,Dealer 3, Home Automation,West,Small Business,09-07-2022,112.84
+869,969,Not Converted,Dealer 1,Electrical fans,South,Small Business,27-01-2022,123.96
+870,970,Converted,Dealer 6, Home Automation,North,Individual,19-09-2019,139.768
+871,971,Converted,Dealer 4,MCBs,East,Wholesale,24-09-2019,339.9
+872,972,Converted,Dealer 4,Modular Switches,West,Enterprise,01-10-2022,116.992
+873,973,Converted,Dealer 2,Cabels ,South,Retail,13-09-2019,130.36
+874,974,Not Converted,Dealer 4,MCBs,West,Small Business,04-08-2019,121.616
+875,975,Converted,Dealer 5,Electrical fans,North,Individual,20-09-2019,186.67
+876,976,Not Converted,Dealer 5,Modular Switches,North,Wholesale,25-08-2022,197.984
+877,977,Converted,Dealer 2,Modular Switches,East,Individual,03-09-2019,475.44
+878,978,Converted,Dealer 2,Modular Switches,West,Wholesale,26-08-2022,85.68
+879,979,Not Converted,Dealer 6,Modular Switches,South,Individual,25-08-2022,125.193
+880,980,Not Converted,Dealer 2,Electrical fans,South,Enterprise,05-12-2019,128.376
+881,981,Not Converted,Dealer 1,Modular Switches,Central,Enterprise,27-01-2022,136.464
+882,982,Not Converted,Dealer 1,Cabels ,South,Wholesale,03-01-2019,168.264
+883,983,Converted,Dealer 1,Cabels ,East,Individual,23-03-2022,104.06
+884,984,Not Converted,Dealer 5,Modular Switches,North,Enterprise,06-12-2019,144.7
+885,985,Not Converted,Dealer 4, Home Automation,South,Individual,04-05-2019,124.456
+886,986,Converted,Dealer 6,Electrical fans,Central,Individual,18-05-2022,146.144
+887,987,Converted,Dealer 2,Cabels ,East,Enterprise,30-05-2019,134.6
+888,988,Not Converted,Dealer 6,Cabels ,East,Small Business,12-09-2019,136.86
+889,989,Not Converted,Dealer 3,Cabels ,East,Small Business,26-04-2019,147.54
+890,990,Not Converted,Dealer 5,MCBs,East,Individual,28-10-2019,238.96
+891,991,Not Converted,Dealer 2,MCBs,East,Small Business,18-01-2019,421.36
+892,992,Not Converted,Dealer 3,Cabels ,East,Retail,08-07-2022,696.504
+893,993,Not Converted,Dealer 5, Home Automation,North,Enterprise,01-02-2019,128.624
+894,994,Not Converted,Dealer 2,Electrical fans,North,Small Business,19-05-2019,129.93
+895,995,Converted,Dealer 4,Electrical fans,Central,Small Business,01-05-2019,97.824
+896,996,Not Converted,Dealer 3,Cabels ,South,Individual,21-05-2022,153.496
+897,997,Not Converted,Dealer 6,Cabels ,West,Wholesale,17-06-2022,134.91
+898,998,Converted,Dealer 2,Electrical fans,North,Small Business,17-07-2022,100.384
+899,999,Converted,Dealer 4, Home Automation,West,Wholesale,20-08-2022,116.544
+900,1000,Not Converted,Dealer 2,MCBs,Central,Enterprise,03-02-2022,129.896
+901,1001,Not Converted,Dealer 4,MCBs,South,Wholesale,23-02-2019,225.84
+902,1002,Not Converted,Dealer 2,Cabels ,North,Small Business,16-01-2022,235.846
+903,1003,Not Converted,Dealer 2,Electrical fans,North,Retail,04-10-2022,305.764
+904,1004,Converted,Dealer 5,MCBs,South,Retail,27-02-2019,479.99
+905,1005,Not Converted,Dealer 6, Home Automation,South,Enterprise,16-08-2022,106
+906,1006,Not Converted,Dealer 2,Cabels ,West,Small Business,19-11-2019,205.92
+907,1007,Converted,Dealer 4,Modular Switches,West,Enterprise,27-07-2022,223.04
+908,1008,Converted,Dealer 6,Cabels ,South,Individual,29-07-2022,234.168
+909,1009,Not Converted,Dealer 1,Modular Switches,North,Individual,09-03-2022,167.96
+910,1010,Not Converted,Dealer 4,Cabels ,East,Wholesale,01-07-2022,105.742
+911,1011,Converted,Dealer 4,Electrical fans,Central,Enterprise,26-03-2019,127.56
+912,1012,Not Converted,Dealer 1,Electrical fans,Central,Retail,24-09-2019,153.48
+913,1013,Converted,Dealer 6,Electrical fans,West,Enterprise,17-05-2019,121.2
+914,1014,Converted,Dealer 2,Electrical fans,South,Wholesale,06-12-2019,188.792
+915,1015,Not Converted,Dealer 4, Home Automation,North,Small Business,29-11-2022,124.95
+916,1016,Converted,Dealer 1, Home Automation,North,Enterprise,14-04-2019,720.58
+917,1017,Converted,Dealer 2,Modular Switches,West,Wholesale,10-09-2022,95.468
+918,1018,Converted,Dealer 6, Home Automation,West,Individual,14-03-2019,118.54
+919,1019,Not Converted,Dealer 4,Cabels ,East,Retail,19-02-2019,160.78
+920,1020,Not Converted,Dealer 2,Electrical fans,Central,Small Business,12-02-2022,156.12
+921,1021,Converted,Dealer 5,MCBs,Central,Enterprise,15-09-2019,166.68
+922,1022,Not Converted,Dealer 3,MCBs,Central,Enterprise,25-01-2019,234.352
+923,1023,Converted,Dealer 1,MCBs,West,Retail,17-11-2022,111.976
+924,1024,Converted,Dealer 2,Cabels ,East,Individual,08-02-2019,148.808
+925,1025,Not Converted,Dealer 6,MCBs,South,Enterprise,19-09-2019,404
+926,1026,Not Converted,Dealer 3,MCBs,West,Retail,09-08-2019,147.11
+927,1027,Not Converted,Dealer 2,Modular Switches,East,Retail,01-09-2019,145.02
+928,1028,Converted,Dealer 2,Cabels ,West,Small Business,04-07-2019,400.84
+929,1029,Converted,Dealer 6,Cabels ,South,Retail,22-06-2019,133.22
+930,1030,Converted,Dealer 3,MCBs,South,Retail,19-10-2019,247.184
+931,1031,Not Converted,Dealer 3,Cabels ,East,Retail,23-12-2019,275.072
+932,1032,Not Converted,Dealer 1,Modular Switches,North,Enterprise,09-02-2022,654.976
+933,1033,Converted,Dealer 2,Modular Switches,South,Retail,18-06-2019,106.328
+934,1034,Not Converted,Dealer 1,Electrical fans,South,Retail,22-04-2022,2704.97
+935,1035,Not Converted,Dealer 5,Modular Switches,South,Retail,08-04-2019,126.28
+936,1036,Not Converted,Dealer 1,Electrical fans,South,Retail,13-04-2019,87.43
+937,1037,Not Converted,Dealer 6,MCBs,North,Individual,13-02-2022,95.32
+938,1038,Converted,Dealer 4,Electrical fans,Central,Enterprise,09-09-2022,97.419
+939,1039,Not Converted,Dealer 6,Electrical fans,Central,Retail,16-06-2019,225.95
+940,1040,Converted,Dealer 3,MCBs,South,Wholesale,05-07-2019,115.12
+941,1041,Converted,Dealer 6,Electrical fans,North,Wholesale,10-02-2019,145.7
+942,1042,Converted,Dealer 3,Modular Switches,West,Wholesale,10-02-2022,456.704
+943,1043,Not Converted,Dealer 5,MCBs,North,Small Business,26-07-2019,96.76
+944,1044,Not Converted,Dealer 2,Cabels ,East,Individual,01-02-2019,110.776
+945,1045,Converted,Dealer 2,Electrical fans,West,Wholesale,13-06-2019,225.45
+946,1046,Not Converted,Dealer 6,Modular Switches,Central,Individual,08-10-2019,107.57
+947,1047,Converted,Dealer 1,Cabels ,Central,Wholesale,20-02-2022,111.71
+948,1048,Not Converted,Dealer 3,MCBs,North,Small Business,14-07-2022,109.98
+949,1049,Converted,Dealer 2,MCBs,Central,Enterprise,26-10-2022,115.74
+950,1050,Not Converted,Dealer 3,MCBs,North,Individual,27-03-2019,265.352
+951,1051,Not Converted,Dealer 2,Modular Switches,North,Enterprise,12-02-2019,290.89
+952,1052,Not Converted,Dealer 4,Cabels ,North,Small Business,08-11-2022,100.964
+953,1053,Not Converted,Dealer 6,MCBs,North,Individual,20-10-2022,138.594
+954,1054,Not Converted,Dealer 2,Modular Switches,North,Enterprise,18-04-2019,127.03
+955,1055,Converted,Dealer 6, Home Automation,East,Small Business,20-06-2022,152.382
+956,1056,Converted,Dealer 4,Modular Switches,East,Retail,09-03-2019,344.058
+957,1057,Not Converted,Dealer 3, Home Automation,East,Individual,29-10-2022,120.56
+958,1058,Converted,Dealer 6,Cabels ,North,Enterprise,20-09-2019,89.7
+959,1059,Not Converted,Dealer 2,MCBs,Central,Small Business,25-02-2022,136.4
+960,1060,Converted,Dealer 4,MCBs,West,Retail,08-12-2019,109.28
+961,1061,Converted,Dealer 2,Electrical fans,East,Individual,14-06-2019,112.36
+962,1062,Not Converted,Dealer 4,MCBs,South,Retail,26-05-2022,113.88
+963,1063,Not Converted,Dealer 4,Cabels ,South,Wholesale,20-04-2019,163.94
+964,1064,Not Converted,Dealer 2,Modular Switches,North,Individual,24-10-2019,178.34
+965,1065,Converted,Dealer 6,Cabels ,West,Small Business,08-04-2019,107.76
+966,1066,Converted,Dealer 3,MCBs,East,Small Business,03-04-2022,114.664
+967,1067,Converted,Dealer 3,Modular Switches,North,Individual,28-05-2019,149.14
+968,1068,Converted,Dealer 4,Cabels ,Central,Wholesale,26-04-2022,100.98
+969,1069,Not Converted,Dealer 2,MCBs,West,Individual,04-07-2022,601
+970,1070,Not Converted,Dealer 4,MCBs,Central,Enterprise,23-08-2019,104.43
+971,1071,Converted,Dealer 3,MCBs,Central,Small Business,14-12-2019,133.97
+972,1072,Converted,Dealer 4,Electrical fans,South,Retail,14-07-2019,104.904
+973,1073,Converted,Dealer 5,Electrical fans,East,Small Business,19-05-2022,164.344
+974,1074,Converted,Dealer 3,Electrical fans,North,Wholesale,07-02-2019,773.984
+975,1075,Not Converted,Dealer 6,Modular Switches,Central,Individual,28-02-2019,256.704
+976,1076,Not Converted,Dealer 4,Cabels ,Central,Small Business,28-11-2022,116.24
+977,1077,Not Converted,Dealer 6,Modular Switches,North,Enterprise,07-04-2019,124.376
+978,1078,Not Converted,Dealer 4,Modular Switches,West,Wholesale,26-01-2022,103.68
+979,1079,Converted,Dealer 2,MCBs,North,Wholesale,03-07-2022,126.842
+980,1080,Not Converted,Dealer 4, Home Automation,North,Retail,10-04-2019,123.372
+981,1081,Converted,Dealer 4, Home Automation,East,Small Business,28-08-2019,151.96
+982,1082,Not Converted,Dealer 1,MCBs,South,Individual,26-07-2022,2821.92
+983,1083,Not Converted,Dealer 2, Home Automation,Central,Wholesale,11-04-2019,193.56
+984,1084,Not Converted,Dealer 5,Modular Switches,South,Enterprise,03-04-2022,232.96
+985,1085,Converted,Dealer 5,Cabels ,West,Enterprise,14-09-2022,260.16
+986,1086,Not Converted,Dealer 6,Electrical fans,Central,Individual,28-11-2022,87.313
+987,1087,Converted,Dealer 4,Modular Switches,South,Enterprise,10-12-2019,120.552
+988,1088,Not Converted,Dealer 3,Modular Switches,West,Retail,27-10-2019,150.5
+989,1089,Not Converted,Dealer 4,Cabels ,East,Individual,30-12-2019,188.94
+990,1090,Converted,Dealer 1, Home Automation,West,Enterprise,17-06-2022,231.968
+991,1091,Not Converted,Dealer 4,Cabels ,South,Retail,07-05-2022,454.744
+992,1092,Converted,Dealer 1,Modular Switches,North,Enterprise,04-04-2022,462.944
+993,1093,Not Converted,Dealer 4,MCBs,Central,Small Business,27-04-2022,171.99
+994,1094,Not Converted,Dealer 6,MCBs,East,Individual,25-12-2019,114.08
+995,1095,Converted,Dealer 4,Modular Switches,South,Enterprise,06-04-2019,157.992
+996,1096,Not Converted,Dealer 6,MCBs,East,Enterprise,12-10-2019,101.77
+997,1097,Not Converted,Dealer 3, Home Automation,West,Retail,07-01-2019,119.168
+998,1098,Converted,Dealer 3,Cabels ,South,Small Business,29-03-2022,323.52
+999,1099,Converted,Dealer 5,Electrical fans,North,Small Business,21-06-2019,611.97
+1000,1100,Not Converted,Dealer 4,Cabels ,North,Retail,22-06-2019,935.97
+1001,1101,Converted,Dealer 1, Home Automation,West,Wholesale,23-06-2019,564.97
+1002,1102,Converted,Dealer 3,Electrical fans,South,Wholesale,24-06-2019,1433.93
+1003,1103,Not Converted,Dealer 2,Modular Switches,South,Individual,25-06-2019,98.28
+1004,1104,Converted,Dealer 5,MCBs,West,Small Business,26-06-2019,132.17
+1005,1105,Converted,Dealer 1, Home Automation,North,Retail,27-06-2019,86.12
+1006,1106,Converted,Dealer 5, Home Automation,South,Wholesale,28-06-2019,114.752
+1007,1107,Converted,Dealer 5,Modular Switches,Central,Individual,29-06-2019,117.592
+1008,1108,Converted,Dealer 3,Modular Switches,Central,Wholesale,30-06-2019,138.94
+1009,1109,Not Converted,Dealer 2,MCBs,Central,Wholesale,01-07-2019,156.95
+1010,1110,Converted,Dealer 3, Home Automation,Central,Enterprise,02-07-2019,725.86
+1011,1111,Converted,Dealer 1,Modular Switches,West,Retail,03-07-2019,102.048
+1012,1112,Converted,Dealer 2,Modular Switches,North,Small Business,04-07-2019,103.24
+1013,1113,Converted,Dealer 5,MCBs,West,Enterprise,05-07-2019,105.892
+1014,1114,Converted,Dealer 2,MCBs,South,Enterprise,06-07-2019,146.608
+1015,1115,Converted,Dealer 3,Cabels ,Central,Small Business,07-07-2019,112.56
+1016,1116,Converted,Dealer 3,Electrical fans,Central,Wholesale,08-07-2019,149.98
+1017,1117,Not Converted,Dealer 4,Cabels ,Central,Wholesale,09-07-2019,129.75
+1018,1118,Converted,Dealer 3,MCBs,South,Retail,10-07-2019,160.19
+1019,1119,Not Converted,Dealer 2,Modular Switches,East,Wholesale,11-07-2019,172.12
+1020,1120,Not Converted,Dealer 1,MCBs,West,Enterprise,12-07-2019,311.97
+1021,1121,Converted,Dealer 4, Home Automation,North,Enterprise,13-07-2019,323.34
+1022,1122,Converted,Dealer 3,Modular Switches,South,Enterprise,14-07-2019,326.98
+1023,1123,Not Converted,Dealer 3,Cabels ,East,Small Business,15-07-2019,404.97
+1024,1124,Not Converted,Dealer 2,Cabels ,East,Wholesale,16-07-2019,704.408
+1025,1125,Not Converted,Dealer 4,Cabels ,North,Wholesale,17-07-2019,117.32
+1026,1126,Converted,Dealer 3,Modular Switches,South,Wholesale,18-07-2019,131.16
+1027,1127,Converted,Dealer 1,Electrical fans,East,Wholesale,19-07-2019,179.8
+1028,1128,Not Converted,Dealer 1,Electrical fans,Central,Retail,20-07-2019,552.272
+1029,1129,Converted,Dealer 3,Electrical fans,North,Retail,21-07-2019,1159.128
+1030,1130,Converted,Dealer 1,MCBs,Central,Enterprise,22-07-2019,119.98
+1031,1131,Not Converted,Dealer 4,MCBs,North,Enterprise,23-07-2019,110.288
+1032,1132,Converted,Dealer 3, Home Automation,West,Small Business,24-07-2019,158.9
+1033,1133,Not Converted,Dealer 2,Modular Switches,West,Individual,25-07-2019,541.05
+1034,1134,Not Converted,Dealer 5, Home Automation,South,Enterprise,26-07-2019,113.46
+1035,1135,Not Converted,Dealer 1,MCBs,East,Wholesale,27-07-2019,219.986
+1036,1136,Converted,Dealer 3,Modular Switches,Central,Enterprise,28-07-2019,96.592
+1037,1137,Not Converted,Dealer 4,Cabels ,East,Enterprise,29-07-2019,139
+1038,1138,Converted,Dealer 5,Modular Switches,West,Retail,30-07-2019,697.92
+1039,1139,Not Converted,Dealer 3,MCBs,Central,Wholesale,31-07-2019,142.84
+1040,1140,Converted,Dealer 6,Cabels ,South,Small Business,01-08-2019,145.84
+1041,1141,Not Converted,Dealer 2,Cabels ,East,Small Business,02-08-2019,342.376
+1042,1142,Not Converted,Dealer 1,Modular Switches,North,Small Business,03-08-2019,138
+1043,1143,Converted,Dealer 1,Electrical fans,North,Enterprise,04-08-2019,117.869
+1044,1144,Converted,Dealer 6,MCBs,Central,Small Business,05-08-2019,219.96
+1045,1145,Converted,Dealer 5,MCBs,North,Small Business,06-08-2019,291.968
+1046,1146,Converted,Dealer 4,Electrical fans,North,Small Business,07-08-2019,94.564
+1047,1147,Not Converted,Dealer 2, Home Automation,West,Retail,08-08-2019,480.16
+1048,1148,Converted,Dealer 2, Home Automation,South,Wholesale,09-08-2019,113.24
+1049,1149,Converted,Dealer 1,MCBs,North,Retail,10-08-2019,130.41
+1050,1150,Converted,Dealer 6,Electrical fans,North,Wholesale,11-08-2019,118.97
+1051,1151,Not Converted,Dealer 5,Electrical fans,East,Retail,12-08-2019,192.376
+1052,1152,Not Converted,Dealer 3,Cabels ,Central,Wholesale,13-08-2019,1956.88
+1053,1153,Not Converted,Dealer 5, Home Automation,West,Small Business,14-08-2019,2425.2
+1054,1154,Not Converted,Dealer 1, Home Automation,Central,Individual,15-08-2019,105.48
+1055,1155,Converted,Dealer 2,Cabels ,East,Small Business,16-08-2019,108.798
+1056,1156,Not Converted,Dealer 4,Modular Switches,East,Individual,17-08-2019,149.38
+1057,1157,Not Converted,Dealer 5, Home Automation,East,Small Business,18-08-2019,143.89
+1058,1158,Converted,Dealer 1,Cabels ,North,Retail,19-08-2019,95.97
+1059,1159,Not Converted,Dealer 1,Electrical fans,Central,Individual,20-08-2019,153.4
+1060,1160,Converted,Dealer 6,Modular Switches,Central,Small Business,21-08-2019,222.992
+1061,1161,Converted,Dealer 6,MCBs,Central,Enterprise,22-08-2019,528.96
+1062,1162,Converted,Dealer 6,Electrical fans,South,Individual,23-08-2019,94.912
+1063,1163,Converted,Dealer 1,Modular Switches,West,Wholesale,24-08-2019,125.472
+1064,1164,Not Converted,Dealer 6,Cabels ,North,Retail,25-08-2019,93.554
+1065,1165,Not Converted,Dealer 6,Electrical fans,West,Small Business,26-08-2019,111.2
+1066,1166,Not Converted,Dealer 1,Modular Switches,North,Small Business,27-08-2019,156.75
+1067,1167,Converted,Dealer 1,MCBs,Central,Wholesale,28-08-2019,110.95
+1068,1168,Not Converted,Dealer 4,Electrical fans,South,Small Business,29-08-2019,102.588
+1069,1169,Converted,Dealer 2,Electrical fans,South,Small Business,30-08-2019,127.544
+1070,1170,Converted,Dealer 3, Home Automation,Central,Wholesale,31-08-2019,134.176
+1071,1171,Converted,Dealer 1,Modular Switches,West,Wholesale,01-09-2019,146.52
+1072,1172,Not Converted,Dealer 3,Modular Switches,East,Enterprise,02-09-2019,113.976
+1073,1173,Not Converted,Dealer 4, Home Automation,Central,Enterprise,03-09-2019,318.96
+1074,1174,Not Converted,Dealer 2,Cabels ,North,Wholesale,04-09-2019,308.792
+1075,1175,Converted,Dealer 2,Cabels ,West,Individual,05-09-2019,161.44
+1076,1176,Converted,Dealer 2, Home Automation,East,Individual,06-09-2019,126.2
+1077,1177,Not Converted,Dealer 4,Electrical fans,South,Individual,07-09-2019,882.24
+1078,1178,Converted,Dealer 6,MCBs,North,Retail,08-09-2019,83.856
+1079,1179,Not Converted,Dealer 2,Cabels ,South,Enterprise,09-09-2019,100.088
+1080,1180,Not Converted,Dealer 2,MCBs,North,Individual,10-09-2019,124.128
+1081,1181,Not Converted,Dealer 4,Modular Switches,East,Individual,11-09-2019,159.92
+1082,1182,Converted,Dealer 5,Modular Switches,North,Individual,12-09-2019,520.302
+1083,1183,Not Converted,Dealer 2,Cabels ,East,Wholesale,13-09-2019,142.984
+1084,1184,Converted,Dealer 2,Electrical fans,Central,Small Business,14-09-2019,143.96
+1085,1185,Converted,Dealer 6,Modular Switches,Central,Retail,15-09-2019,155.976
+1086,1186,Not Converted,Dealer 1,MCBs,North,Small Business,16-09-2019,492.952
+1087,1187,Not Converted,Dealer 1,Electrical fans,West,Enterprise,17-09-2019,1259.96
+1088,1188,Not Converted,Dealer 2,Cabels ,South,Small Business,18-09-2019,107.936
+1089,1189,Not Converted,Dealer 3,Modular Switches,North,Retail,19-09-2019,114.34
+1090,1190,Converted,Dealer 5,Cabels ,North,Individual,20-09-2019,131.304
+1091,1191,Converted,Dealer 6,Electrical fans,South,Individual,21-09-2019,123.36
+1092,1192,Not Converted,Dealer 3,Electrical fans,North,Wholesale,22-09-2019,187.312
+1093,1193,Converted,Dealer 6,Electrical fans,South,Wholesale,23-09-2019,121.12
+1094,1194,Converted,Dealer 4, Home Automation,East,Retail,24-09-2019,161.328
+1095,1195,Converted,Dealer 6, Home Automation,West,Individual,25-09-2019,783.116
+1096,1196,Converted,Dealer 6,MCBs,Central,Small Business,26-09-2019,137.568
+1097,1197,Converted,Dealer 6,Electrical fans,Central,Small Business,27-09-2019,144.32
+1098,1198,Not Converted,Dealer 1,Electrical fans,West,Retail,28-09-2019,143.784
+1099,1199,Converted,Dealer 4,Modular Switches,South,Wholesale,29-09-2019,163.95
+1100,1200,Not Converted,Dealer 6,MCBs,West,Small Business,30-09-2019,147.312
+1101,1201,Not Converted,Dealer 4,MCBs,South,Enterprise,01-10-2019,128.256
+1102,1202,Not Converted,Dealer 4,Cabels ,West,Retail,02-10-2019,139.92
+1103,1203,Not Converted,Dealer 4,Electrical fans,North,Enterprise,03-10-2019,79.036
+1104,1204,Converted,Dealer 3,Modular Switches,North,Enterprise,04-10-2019,128.93
+1105,1205,Converted,Dealer 6,Cabels ,West,Wholesale,05-10-2019,190.764
+1106,1206,Not Converted,Dealer 1, Home Automation,East,Individual,06-10-2019,207.994
+1107,1207,Not Converted,Dealer 1,Electrical fans,West,Retail,07-10-2019,318.69
+1108,1208,Converted,Dealer 1,MCBs,Central,Individual,08-10-2019,179.48
+1109,1209,Not Converted,Dealer 1,Electrical fans,North,Small Business,09-10-2019,127.368
+1110,1210,Not Converted,Dealer 6,Electrical fans,West,Small Business,10-10-2019,280.97
+1111,1211,Converted,Dealer 1, Home Automation,Central,Retail,11-10-2019,289.552
+1112,1212,Not Converted,Dealer 5,Modular Switches,North,Wholesale,12-10-2019,444.928
+1113,1213,Converted,Dealer 3,Modular Switches,East,Small Business,13-10-2019,536.45
+1114,1214,Not Converted,Dealer 2,Modular Switches,East,Small Business,14-10-2019,228.646
+1115,1215,Converted,Dealer 1,Cabels ,Central,Individual,15-10-2019,339.552
+1116,1216,Converted,Dealer 2,Modular Switches,West,Small Business,16-10-2019,943.92
+1117,1217,Not Converted,Dealer 2,Cabels ,North,Wholesale,17-10-2019,164.31
+1118,1218,Converted,Dealer 2, Home Automation,East,Small Business,18-10-2019,117.792
+1119,1219,Converted,Dealer 4,Electrical fans,Central,Small Business,19-10-2019,579.058
+1120,1220,Not Converted,Dealer 1,Cabels ,South,Enterprise,20-10-2019,1033.584
+1121,1221,Converted,Dealer 5, Home Automation,West,Wholesale,21-10-2019,84.23
+1122,1222,Converted,Dealer 4,Cabels ,South,Small Business,22-10-2019,109.224
+1123,1223,Not Converted,Dealer 6, Home Automation,West,Wholesale,23-10-2019,185.99
+1124,1224,Not Converted,Dealer 1,Modular Switches,North,Wholesale,24-10-2019,172.39
+1125,1225,Converted,Dealer 4,Modular Switches,Central,Small Business,25-10-2019,323.97
+1126,1226,Converted,Dealer 2, Home Automation,North,Small Business,26-10-2019,124.99
+1127,1227,Not Converted,Dealer 4,MCBs,South,Wholesale,27-10-2019,168.136
+1128,1228,Not Converted,Dealer 4, Home Automation,Central,Individual,28-10-2019,288.24
+1129,1229,Converted,Dealer 1,Cabels ,North,Individual,29-10-2019,262
+1130,1230,Converted,Dealer 2, Home Automation,North,Wholesale,30-10-2019,129.472
+1131,1231,Converted,Dealer 2,Electrical fans,North,Wholesale,31-10-2019,108.92
+1132,1232,Converted,Dealer 3,MCBs,South,Individual,01-11-2019,166.9
+1133,1233,Converted,Dealer 3, Home Automation,North,Individual,02-11-2019,189.9
+1134,1234,Not Converted,Dealer 6,MCBs,East,Enterprise,03-11-2019,135.98
+1135,1235,Converted,Dealer 5,MCBs,West,Individual,04-11-2019,536.45
+1136,1236,Converted,Dealer 1, Home Automation,East,Individual,05-11-2019,152.464
+1137,1237,Converted,Dealer 4, Home Automation,South,Retail,06-11-2019,101.84
+1138,1238,Not Converted,Dealer 2,Modular Switches,South,Small Business,07-11-2019,142.91
+1139,1239,Converted,Dealer 4, Home Automation,North,Enterprise,08-11-2019,117.952
+1140,1240,Not Converted,Dealer 1, Home Automation,Central,Enterprise,09-11-2019,172.6
+1141,1241,Not Converted,Dealer 4,Modular Switches,East,Wholesale,10-11-2019,202.1
+1142,1242,Converted,Dealer 2,Modular Switches,South,Retail,11-11-2019,1300.45
+1143,1243,Converted,Dealer 3,Electrical fans,West,Small Business,12-11-2019,134.8
+1144,1244,Not Converted,Dealer 6, Home Automation,South,Enterprise,13-11-2019,150.97
+1145,1245,Not Converted,Dealer 2,Cabels ,East,Individual,14-11-2019,307.69
+1146,1246,Not Converted,Dealer 2,MCBs,West,Individual,15-11-2019,421.92
+1147,1247,Not Converted,Dealer 2,Modular Switches,West,Individual,16-11-2019,492.376
+1148,1248,Not Converted,Dealer 2, Home Automation,North,Small Business,17-11-2019,1912.946
+1149,1249,Converted,Dealer 5,Cabels ,Central,Enterprise,18-11-2019,112.448
+1150,1250,Converted,Dealer 2,MCBs,West,Small Business,19-11-2019,117.84
+1151,1251,Converted,Dealer 4, Home Automation,North,Wholesale,20-11-2019,699.146
+1152,1252,Converted,Dealer 5,Cabels ,Central,Wholesale,21-11-2019,132.55
+1153,1253,Not Converted,Dealer 3,MCBs,North,Retail,22-11-2019,160.9
+1154,1254,Converted,Dealer 5,Cabels ,South,Wholesale,23-11-2019,296.98
+1155,1255,Converted,Dealer 4,Modular Switches,South,Enterprise,24-11-2019,92.904
+1156,1256,Converted,Dealer 4, Home Automation,Central,Enterprise,25-11-2019,128.08
+1157,1257,Converted,Dealer 4,Cabels ,North,Enterprise,26-11-2019,174.568
+1158,1258,Converted,Dealer 1,Cabels ,East,Individual,27-11-2019,350.976
+1159,1259,Converted,Dealer 3, Home Automation,North,Individual,28-11-2019,116.656
+1160,1260,Converted,Dealer 3,MCBs,East,Enterprise,29-11-2019,194.764
+1161,1261,Converted,Dealer 2, Home Automation,West,Wholesale,30-11-2019,232.92
+1162,1262,Converted,Dealer 6,Cabels ,West,Wholesale,01-12-2019,106.792
+1163,1263,Not Converted,Dealer 1,Electrical fans,West,Retail,02-12-2019,122.192
+1164,1264,Converted,Dealer 5,MCBs,North,Small Business,03-12-2019,227.564
+1165,1265,Converted,Dealer 1,Cabels ,Central,Retail,04-12-2019,256.296
+1166,1266,Not Converted,Dealer 1,Electrical fans,East,Small Business,05-12-2019,1652.192
+1167,1267,Not Converted,Dealer 5,MCBs,North,Wholesale,06-12-2019,82.112
+1168,1268,Converted,Dealer 3,Modular Switches,West,Enterprise,07-12-2019,110.864
+1169,1269,Converted,Dealer 6, Home Automation,South,Individual,08-12-2019,123.48
+1170,1270,Not Converted,Dealer 6,MCBs,West,Retail,09-12-2019,115.352
+1171,1271,Converted,Dealer 6,MCBs,Central,Retail,10-12-2019,127.93
+1172,1272,Not Converted,Dealer 4,Cabels ,West,Wholesale,11-12-2019,556.344
+1173,1273,Not Converted,Dealer 3,Electrical fans,Central,Small Business,12-12-2019,117.97
+1174,1274,Converted,Dealer 4,MCBs,South,Retail,13-12-2019,191.75
+1175,1275,Converted,Dealer 5, Home Automation,East,Small Business,14-12-2019,120.92
+1176,1276,Converted,Dealer 4,MCBs,West,Retail,15-12-2019,99.192
+1177,1277,Not Converted,Dealer 2,MCBs,Central,Enterprise,16-12-2019,116.128
+1178,1278,Not Converted,Dealer 2,Cabels ,East,Wholesale,17-12-2019,403.352
+1179,1279,Not Converted,Dealer 1,MCBs,South,Small Business,18-12-2019,1687.95
+1180,1280,Not Converted,Dealer 1,Electrical fans,Central,Wholesale,19-12-2019,131.032
+1181,1281,Not Converted,Dealer 3,Cabels ,South,Individual,20-12-2019,565.92
+1182,1282,Converted,Dealer 3,Modular Switches,South,Wholesale,21-12-2019,112.89
+1183,1283,Converted,Dealer 2,Modular Switches,North,Small Business,22-12-2019,1175.6
+1184,1284,Converted,Dealer 5,Cabels ,East,Small Business,23-12-2019,132.984
+1185,1285,Not Converted,Dealer 1,Electrical fans,North,Individual,24-12-2019,110.776
+1186,1286,Not Converted,Dealer 5,Cabels ,South,Individual,25-12-2019,877.95
+1187,1287,Converted,Dealer 6,Cabels ,Central,Retail,26-12-2019,130.01
+1188,1288,Converted,Dealer 6,Cabels ,West,Small Business,27-12-2019,104.96
+1189,1289,Converted,Dealer 6,Cabels ,North,Wholesale,28-12-2019,134.424
+1190,1290,Converted,Dealer 5,MCBs,West,Individual,29-12-2019,159.792
+1191,1291,Not Converted,Dealer 6, Home Automation,North,Wholesale,30-12-2019,113.984
+1192,1292,Converted,Dealer 6,Modular Switches,East,Individual,31-12-2019,161.896
+1193,1293,Not Converted,Dealer 4,Electrical fans,West,Small Business,01-01-2021,168.96
+1194,1294,Converted,Dealer 3,MCBs,North,Individual,02-01-2021,141.816
+1195,1295,Not Converted,Dealer 2,Modular Switches,South,Small Business,03-01-2021,122.78
+1196,1296,Not Converted,Dealer 1, Home Automation,Central,Individual,04-01-2021,164.88
+1197,1297,Converted,Dealer 4,Cabels ,South,Retail,05-01-2021,100.75
+1198,1298,Converted,Dealer 6, Home Automation,East,Individual,06-01-2021,195.96
+1199,1299,Not Converted,Dealer 1,Modular Switches,East,Retail,07-01-2021,257.184
+1200,1300,Converted,Dealer 4,Modular Switches,North,Retail,08-01-2021,732.88
+1201,1301,Converted,Dealer 2,MCBs,South,Wholesale,09-01-2021,1489.1
+1202,1302,Converted,Dealer 6,MCBs,West,Small Business,10-01-2021,103.952
+1203,1303,Converted,Dealer 2,Electrical fans,North,Individual,11-01-2021,88.76
+1204,1304,Converted,Dealer 4,Cabels ,North,Individual,12-01-2021,151.128
+1205,1305,Converted,Dealer 1, Home Automation,South,Enterprise,13-01-2021,150.76
+1206,1306,Not Converted,Dealer 3,Cabels ,Central,Individual,14-01-2021,139.3
+1207,1307,Not Converted,Dealer 6, Home Automation,East,Small Business,15-01-2021,1474.49
+1208,1308,Not Converted,Dealer 5,Cabels ,West,Small Business,16-01-2021,555.94
+1209,1309,Converted,Dealer 1,Modular Switches,East,Individual,17-01-2021,157.92
+1210,1310,Not Converted,Dealer 1,Modular Switches,North,Retail,18-01-2021,119.79
+1211,1311,Converted,Dealer 3,Cabels ,Central,Enterprise,19-01-2021,134.024
+1212,1312,Converted,Dealer 4,Electrical fans,North,Small Business,20-01-2021,264.056
+1213,1313,Not Converted,Dealer 5,Modular Switches,Central,Enterprise,21-01-2021,482.564
+1214,1314,Converted,Dealer 3,Electrical fans,South,Enterprise,22-01-2021,933.92
+1215,1315,Not Converted,Dealer 4,Modular Switches,East,Small Business,23-01-2021,2547.29
+1216,1316,Not Converted,Dealer 4,MCBs,North,Retail,24-01-2021,104.92
+1217,1317,Not Converted,Dealer 4,MCBs,Central,Retail,25-01-2021,161.976
+1218,1318,Not Converted,Dealer 1,Cabels ,Central,Small Business,26-01-2021,111.02
+1219,1319,Not Converted,Dealer 1, Home Automation,North,Individual,27-01-2021,140.424
+1220,1320,Not Converted,Dealer 6,MCBs,East,Individual,28-01-2021,109.94
+1221,1321,Converted,Dealer 6,Modular Switches,South,Enterprise,29-01-2021,121.782
+1222,1322,Converted,Dealer 3,Modular Switches,South,Individual,30-01-2021,111.91
+1223,1323,Not Converted,Dealer 5,MCBs,West,Enterprise,31-01-2021,134.48
+1224,1324,Converted,Dealer 6,MCBs,West,Individual,01-02-2021,107.296
+1225,1325,Converted,Dealer 2, Home Automation,West,Retail,02-02-2021,145.88
+1226,1326,Converted,Dealer 3,MCBs,East,Retail,03-02-2021,259.12
+1227,1327,Not Converted,Dealer 2,Cabels ,West,Retail,04-02-2021,153.92
+1228,1328,Converted,Dealer 2, Home Automation,West,Individual,05-02-2021,154.144
+1229,1329,Converted,Dealer 4,MCBs,East,Enterprise,06-02-2021,237.52
+1230,1330,Not Converted,Dealer 1,Modular Switches,West,Enterprise,07-02-2021,450.968
+1231,1331,Converted,Dealer 6,MCBs,South,Retail,08-02-2021,4330.552
+1232,1332,Converted,Dealer 1,Cabels ,North,Retail,09-02-2021,121.752
+1233,1333,Converted,Dealer 6,Cabels ,South,Individual,10-02-2021,139.088
+1234,1334,Converted,Dealer 1,Modular Switches,South,Individual,11-02-2021,202.376
+1235,1335,Converted,Dealer 6, Home Automation,Central,Enterprise,12-02-2021,4395.896
+1236,1336,Converted,Dealer 1,Modular Switches,North,Wholesale,13-02-2021,101.784
+1237,1337,Converted,Dealer 4,MCBs,South,Enterprise,14-02-2021,667.272
+1238,1338,Not Converted,Dealer 2,Modular Switches,North,Individual,15-02-2021,141.744
+1239,1339,Converted,Dealer 6, Home Automation,South,Small Business,16-02-2021,121.672
+1240,1340,Converted,Dealer 2,Electrical fans,East,Individual,17-02-2021,149.96
+1241,1341,Converted,Dealer 6,Modular Switches,East,Individual,18-02-2021,149.98
+1242,1342,Converted,Dealer 6, Home Automation,West,Small Business,19-02-2021,167.576
+1243,1343,Not Converted,Dealer 4,Electrical fans,East,Individual,20-02-2021,242.46
+1244,1344,Not Converted,Dealer 5, Home Automation,North,Enterprise,21-02-2021,261.28
+1245,1345,Not Converted,Dealer 6, Home Automation,Central,Small Business,22-02-2021,337.92
+1246,1346,Converted,Dealer 1,Electrical fans,West,Wholesale,23-02-2021,367.97
+1247,1347,Not Converted,Dealer 4,Modular Switches,South,Individual,24-02-2021,855.568
+1248,1348,Converted,Dealer 3,Electrical fans,East,Wholesale,25-02-2021,125.336
+1249,1349,Not Converted,Dealer 2,Modular Switches,West,Wholesale,26-02-2021,133.008
+1250,1350,Not Converted,Dealer 6, Home Automation,East,Small Business,27-02-2021,180.02
+1251,1351,Converted,Dealer 5,Modular Switches,West,Retail,28-02-2021,96.24
+1252,1352,Not Converted,Website,Cabels ,North,Wholesale,29-02-2021,649.73
+1253,1353,Not Converted,Dealer 6,Electrical fans,North,Wholesale,01-03-2021,733.408
+1254,1354,Not Converted,Dealer 1,Electrical fans,South,Retail,02-03-2021,112.672
+1255,1355,Converted,Dealer 3,MCBs,West,Enterprise,03-03-2021,145.9
+1256,1356,Converted,Dealer 6, Home Automation,Central,Retail,04-03-2021,173.92
+1257,1357,Not Converted,Dealer 2, Home Automation,North,Enterprise,05-03-2021,177.97
+1258,1358,Converted,Dealer 6,Modular Switches,South,Enterprise,06-03-2021,244.97
+1259,1359,Converted,Dealer 2,Cabels ,West,Retail,07-03-2021,247.584
+1260,1360,Converted,Dealer 5, Home Automation,South,Wholesale,08-03-2021,284
+1261,1361,Not Converted,Dealer 6,Cabels ,North,Enterprise,09-03-2021,559.5
+1262,1362,Converted,Dealer 4,MCBs,South,Retail,10-03-2021,1311.41
+1263,1363,Not Converted,Dealer 4,Electrical fans,West,Individual,11-03-2021,82.588
+1264,1364,Converted,Dealer 3,Cabels ,East,Wholesale,12-03-2021,110.98
+1265,1365,Converted,Dealer 4, Home Automation,Central,Enterprise,13-03-2021,111.72
+1266,1366,Not Converted,Dealer 3,Electrical fans,North,Small Business,14-03-2021,104.432
+1267,1367,Not Converted,Dealer 1,Cabels ,West,Wholesale,15-03-2021,131.072
+1268,1368,Converted,Dealer 2,Cabels ,West,Individual,16-03-2021,125.54
+1269,1369,Not Converted,Dealer 1,Modular Switches,South,Individual,17-03-2021,142.68
+1270,1370,Not Converted,Dealer 2,Electrical fans,North,Retail,18-03-2021,179.1
+1271,1371,Converted,Dealer 2,Cabels ,East,Individual,19-03-2021,105.801
+1272,1372,Not Converted,Dealer 3,Modular Switches,East,Small Business,20-03-2021,113.56
+1273,1373,Converted,Dealer 4, Home Automation,Central,Retail,21-03-2021,135.8
+1274,1374,Converted,Dealer 4,Cabels ,Central,Individual,22-03-2021,193.764
+1275,1375,Not Converted,Dealer 3,Modular Switches,South,Enterprise,23-03-2021,313.97
+1276,1376,Converted,Dealer 3,Modular Switches,North,Wholesale,24-03-2021,129.616
+1277,1377,Converted,Dealer 1,Electrical fans,East,Small Business,25-03-2021,112.184
+1278,1378,Converted,Dealer 3,Modular Switches,North,Small Business,26-03-2021,140.96
+1279,1379,Not Converted,Dealer 4,Cabels ,South,Small Business,27-03-2021,522.984
+1280,1380,Not Converted,Dealer 3,MCBs,North,Enterprise,28-03-2021,88.368
+1281,1381,Converted,Dealer 3, Home Automation,North,Individual,29-03-2021,119.344
+1282,1382,Not Converted,Dealer 2,Cabels ,North,Wholesale,30-03-2021,124.808
+1283,1383,Converted,Dealer 3,Cabels ,South,Wholesale,31-03-2021,139.56
+1284,1384,Not Converted,Dealer 1, Home Automation,South,Enterprise,01-04-2021,123.176
+1285,1385,Not Converted,Dealer 5, Home Automation,South,Retail,02-04-2021,122.56
+1286,1386,Not Converted,Dealer 6,Modular Switches,East,Individual,03-04-2021,125.52
+1287,1387,Converted,Dealer 6,Cabels ,West,Small Business,04-04-2021,170.3
+1288,1388,Converted,Dealer 2,Modular Switches,North,Retail,05-04-2021,192.568
+1289,1389,Not Converted,Dealer 2,Electrical fans,Central,Enterprise,06-04-2021,1600.94
+1290,1390,Not Converted,Dealer 6,Modular Switches,Central,Individual,07-04-2021,70.857
+1291,1391,Converted,Dealer 2,Electrical fans,West,Individual,08-04-2021,137.76
+1292,1392,Converted,Dealer 2,MCBs,North,Individual,09-04-2021,142.94
+1293,1393,Not Converted,Dealer 4,Cabels ,North,Retail,10-04-2021,133.832
+1294,1394,Converted,Dealer 4,Electrical fans,North,Retail,11-04-2021,168.376
+1295,1395,Not Converted,Dealer 3,MCBs,South,Enterprise,12-04-2021,105.096
+1296,1396,Converted,Dealer 5, Home Automation,East,Small Business,13-04-2021,180.96
+1297,1397,Not Converted,Dealer 1,Modular Switches,South,Retail,14-04-2021,286.92
+1298,1398,Not Converted,Dealer 6,MCBs,North,Wholesale,15-04-2021,102.258
+1299,1399,Converted,Dealer 6,Electrical fans,West,Retail,16-04-2021,131.86
+1300,1400,Converted,Dealer 4,Cabels ,North,Retail,17-04-2021,171.112
+1301,1401,Converted,Dealer 4, Home Automation,North,Individual,18-04-2021,138.8
+1302,1402,Converted,Dealer 2, Home Automation,East,Wholesale,19-04-2021,183.168
+1303,1403,Converted,Dealer 1,MCBs,North,Small Business,20-04-2021,282.896
+1304,1404,Not Converted,Dealer 4,MCBs,South,Wholesale,21-04-2021,324.85
+1305,1405,Converted,Dealer 2,Modular Switches,Central,Small Business,22-04-2021,382.352
+1306,1406,Not Converted,Dealer 5, Home Automation,East,Enterprise,23-04-2021,804.594
+1307,1407,Converted,Dealer 4, Home Automation,East,Individual,24-04-2021,73.78
+1308,1408,Converted,Dealer 6,Modular Switches,East,Enterprise,25-04-2021,113.184
+1309,1409,Not Converted,Dealer 6,Cabels ,North,Retail,26-04-2021,113.2
+1310,1410,Not Converted,Dealer 1,Modular Switches,East,Retail,27-04-2021,110.71
+1311,1411,Converted,Dealer 1,Electrical fans,East,Individual,28-04-2021,104.18
+1312,1412,Not Converted,Dealer 4,Electrical fans,South,Enterprise,29-04-2021,158.056
+1313,1413,Converted,Dealer 4,MCBs,West,Wholesale,30-04-2021,147.99
+1314,1414,Converted,Dealer 1,Modular Switches,South,Enterprise,01-05-2021,175.952
+1315,1415,Converted,Dealer 1,Modular Switches,South,Small Business,02-05-2021,447.6
+1316,1416,Not Converted,Dealer 5,MCBs,West,Retail,03-05-2021,2101.272
+1317,1417,Not Converted,Dealer 5,Cabels ,West,Wholesale,04-05-2021,111.504
+1318,1418,Converted,Dealer 2,Modular Switches,East,Retail,05-05-2021,114.36
+1319,1419,Converted,Dealer 6, Home Automation,South,Enterprise,06-05-2021,115.36
+1320,1420,Converted,Dealer 6,Modular Switches,North,Individual,07-05-2021,150.78
+1321,1421,Converted,Dealer 2,Cabels ,Central,Wholesale,08-05-2021,624.41
+1322,1422,Not Converted,Dealer 2,Modular Switches,Central,Individual,09-05-2021,943.944
+1323,1423,Converted,Dealer 1, Home Automation,Central,Enterprise,10-05-2021,1125.85
+1324,1424,Converted,Dealer 6,Electrical fans,South,Small Business,11-05-2021,153.96
+1325,1425,Not Converted,Dealer 2,Electrical fans,West,Individual,12-05-2021,227.752
+1326,1426,Not Converted,Dealer 3,Cabels ,East,Individual,13-05-2021,241.352
+1327,1427,Converted,Dealer 4,Cabels ,East,Enterprise,14-05-2021,368.976
+1328,1428,Not Converted,Dealer 2, Home Automation,Central,Wholesale,15-05-2021,416.544
+1329,1429,Converted,Dealer 6,Electrical fans,East,Enterprise,16-05-2021,549.9
+1330,1430,Converted,Dealer 2,Electrical fans,North,Individual,17-05-2021,2385.488
+1331,1431,Not Converted,Dealer 3,Electrical fans,North,Retail,18-05-2021,118.688
+1332,1432,Converted,Dealer 1,Electrical fans,West,Retail,19-05-2021,124.56
+1333,1433,Not Converted,Dealer 6, Home Automation,East,Individual,20-05-2021,120.97
+1334,1434,Converted,Dealer 1,Cabels ,South,Wholesale,21-05-2021,771.92
+1335,1435,Converted,Dealer 4,Cabels ,East,Individual,22-05-2021,136.68
+1336,1436,Not Converted,Dealer 1,MCBs,South,Retail,23-05-2021,429.98
+1337,1437,Not Converted,Dealer 2,Cabels ,Central,Small Business,24-05-2021,102.82
+1338,1438,Not Converted,Dealer 3,Electrical fans,South,Individual,25-05-2021,146.32
+1339,1439,Converted,Dealer 1,Modular Switches,Central,Individual,26-05-2021,113.584
+1340,1440,Converted,Dealer 5,Electrical fans,North,Small Business,27-05-2021,177.95
+1341,1441,Converted,Dealer 6,Electrical fans,East,Wholesale,28-05-2021,511.92
+1342,1442,Converted,Dealer 6,Cabels ,West,Enterprise,29-05-2021,99.18
+1343,1443,Not Converted,Dealer 2,MCBs,East,Retail,30-05-2021,113.64
+1344,1444,Not Converted,Dealer 5, Home Automation,Central,Retail,31-05-2021,116.991
+1345,1445,Not Converted,Dealer 2,Modular Switches,East,Enterprise,01-06-2021,124.85
+1346,1446,Converted,Dealer 3,Modular Switches,West,Enterprise,02-06-2021,237.8
+1347,1447,Not Converted,Dealer 4,MCBs,Central,Enterprise,03-06-2021,318.646
+1348,1448,Not Converted,Dealer 4,Electrical fans,Central,Enterprise,04-06-2021,1344.66
+1349,1449,Not Converted,Dealer 4, Home Automation,West,Retail,05-06-2021,2284.41
+1350,1450,Not Converted,Dealer 6, Home Automation,East,Individual,06-06-2021,2903.127
+1351,1451,Converted,Dealer 6, Home Automation,West,Individual,07-06-2021,119.784
+1352,1452,Converted,Dealer 4,Cabels ,South,Small Business,08-06-2021,170.97
+1353,1453,Not Converted,Dealer 2,Electrical fans,North,Individual,09-06-2021,125.48
+1354,1454,Converted,Dealer 1,Modular Switches,West,Wholesale,10-06-2021,111.294
+1355,1455,Not Converted,Dealer 4,Modular Switches,Central,Wholesale,11-06-2021,429.98
+1356,1456,Converted,Dealer 1,Electrical fans,South,Enterprise,12-06-2021,1106
+1357,1457,Converted,Dealer 4,Modular Switches,North,Small Business,13-06-2021,140.07
+1358,1458,Not Converted,Dealer 5,Cabels ,West,Retail,14-06-2021,113.176
+1359,1459,Not Converted,Dealer 2, Home Automation,North,Individual,15-06-2021,122.96
+1360,1460,Not Converted,Dealer 6,Modular Switches,East,Individual,16-06-2021,203.96
+1361,1461,Not Converted,Dealer 4,Cabels ,Central,Retail,17-06-2021,628.816
+1362,1462,Converted,Dealer 4, Home Automation,West,Wholesale,18-06-2021,144.824
+1363,1463,Not Converted,Dealer 2,Electrical fans,Central,Enterprise,19-06-2021,132.984
+1364,1464,Converted,Dealer 3,Electrical fans,South,Small Business,20-06-2021,157.984
+1365,1465,Not Converted,Dealer 4,Cabels ,South,Wholesale,21-06-2021,133.328
+1366,1466,Converted,Dealer 1,Cabels ,North,Small Business,22-06-2021,188.176
+1367,1467,Not Converted,Dealer 2,Cabels ,South,Enterprise,23-06-2021,106.9
+1368,1468,Converted,Dealer 3,Modular Switches,South,Individual,24-06-2021,129.056
+1369,1469,Converted,Dealer 4,Electrical fans,West,Enterprise,25-06-2021,433.96
+1370,1470,Not Converted,Dealer 4,Modular Switches,Central,Wholesale,26-06-2021,563.464
+1371,1471,Not Converted,Dealer 6,Modular Switches,North,Individual,27-06-2021,892.2
+1372,1472,Converted,Dealer 3, Home Automation,South,Enterprise,28-06-2021,1191.694
+1373,1473,Not Converted,Dealer 2,Cabels ,Central,Individual,29-06-2021,94.57
+1374,1474,Not Converted,Dealer 1,Modular Switches,East,Individual,30-06-2021,114.88
+1375,1475,Converted,Dealer 4, Home Automation,West,Small Business,01-07-2021,127.71
+1376,1476,Not Converted,Dealer 2,MCBs,South,Small Business,02-07-2021,161.96
+1377,1477,Not Converted,Dealer 6, Home Automation,South,Wholesale,03-07-2021,503.646
+1378,1478,Not Converted,Dealer 4,MCBs,South,Enterprise,04-07-2021,164.12
+1379,1479,Not Converted,Dealer 3,MCBs,Central,Retail,05-07-2021,446.136
+1380,1480,Not Converted,Dealer 2,MCBs,West,Enterprise,06-07-2021,947.176
+1381,1481,Not Converted,Dealer 1,MCBs,West,Individual,07-07-2021,112.24
+1382,1482,Converted,Dealer 6,Cabels ,Central,Wholesale,08-07-2021,90.04
+1383,1483,Converted,Dealer 2,Modular Switches,North,Wholesale,09-07-2021,126.776
+1384,1484,Not Converted,Dealer 4,Modular Switches,West,Retail,10-07-2021,254.792
+1385,1485,Not Converted,Dealer 1,MCBs,Central,Individual,11-07-2021,80.24
+1386,1486,Converted,Dealer 4,Modular Switches,Central,Individual,12-07-2021,142.384
+1387,1487,Not Converted,Dealer 4,MCBs,South,Wholesale,13-07-2021,154.776
+1388,1488,Not Converted,Dealer 5,Modular Switches,Central,Wholesale,14-07-2021,100.686
+1389,1489,Converted,Dealer 3, Home Automation,South,Retail,15-07-2021,101.75
+1390,1490,Not Converted,Dealer 5,Cabels ,East,Retail,16-07-2021,115.84
+1391,1491,Not Converted,Dealer 6,Electrical fans,Central,Small Business,17-07-2021,278.976
+1392,1492,Converted,Dealer 3,MCBs,West,Wholesale,18-07-2021,111.248
+1393,1493,Not Converted,Dealer 3, Home Automation,South,Retail,19-07-2021,149.672
+1394,1494,Not Converted,Dealer 5, Home Automation,East,Individual,20-07-2021,187.784
+1395,1495,Not Converted,Dealer 3,Cabels ,North,Small Business,21-07-2021,206.98
+1396,1496,Not Converted,Dealer 1,Cabels ,North,Wholesale,22-07-2021,133.608
+1397,1497,Not Converted,Dealer 4,MCBs,North,Retail,23-07-2021,146.75
+1398,1498,Converted,Dealer 1,MCBs,South,Wholesale,24-07-2021,269.96
+1399,1499,Not Converted,Dealer 2, Home Automation,Central,Small Business,25-07-2021,73.44
+1400,1500,Converted,Dealer 2, Home Automation,South,Enterprise,26-07-2021,152.776
+1401,1501,Converted,Dealer 2,Cabels ,North,Wholesale,27-07-2021,110.99
+1402,1502,Not Converted,Dealer 1,MCBs,Central,Wholesale,28-07-2021,145.12
+1403,1503,Not Converted,Dealer 4,MCBs,East,Wholesale,29-07-2021,117.16
+1404,1504,Converted,Dealer 2, Home Automation,North,Wholesale,30-07-2021,139.46
+1405,1505,Converted,Dealer 3,Electrical fans,West,Retail,31-07-2021,118.92
+1406,1506,Not Converted,Dealer 2, Home Automation,Central,Enterprise,01-08-2021,403.97
+1407,1507,Converted,Dealer 6,Electrical fans,South,Individual,02-08-2021,146.92
+1408,1508,Converted,Dealer 3,MCBs,South,Wholesale,03-08-2021,108.9
+1409,1509,Converted,Dealer 3, Home Automation,West,Individual,04-08-2021,111.8
+1410,1510,Converted,Dealer 3,Cabels ,South,Retail,05-08-2021,198.93
+1411,1511,Converted,Dealer 2,Modular Switches,West,Enterprise,06-08-2021,247.382
+1412,1512,Converted,Dealer 3,MCBs,North,Small Business,07-08-2021,460.168
+1413,1513,Not Converted,Dealer 6,MCBs,North,Small Business,08-08-2021,88.8
+1414,1514,Converted,Dealer 1, Home Automation,South,Small Business,09-08-2021,120.992
+1415,1515,Not Converted,Dealer 6,Modular Switches,Central,Small Business,10-08-2021,133.92
+1416,1516,Not Converted,Dealer 4,Modular Switches,South,Small Business,11-08-2021,113.936
+1417,1517,Converted,Dealer 3,Modular Switches,North,Enterprise,12-08-2021,182.792
+1418,1518,Not Converted,Dealer 6, Home Automation,Central,Wholesale,13-08-2021,164.824
+1419,1519,Not Converted,Dealer 2, Home Automation,West,Small Business,14-08-2021,268.84
+1420,1520,Not Converted,Dealer 5,Electrical fans,North,Wholesale,15-08-2021,331.96
+1421,1521,Converted,Dealer 6,Electrical fans,West,Individual,16-08-2021,110.96
+1422,1522,Converted,Dealer 3,Electrical fans,East,Wholesale,17-08-2021,119.92
+1423,1523,Converted,Dealer 2,Cabels ,Central,Individual,18-08-2021,151.744
+1424,1524,Converted,Dealer 3,MCBs,North,Wholesale,19-08-2021,1157.91
+1425,1525,Not Converted,Dealer 4,Electrical fans,West,Individual,20-08-2021,129.192
+1426,1526,Converted,Dealer 6,Cabels ,West,Wholesale,21-08-2021,184.764
+1427,1527,Converted,Dealer 3,Cabels ,West,Wholesale,22-08-2021,269.96
+1428,1528,Not Converted,Dealer 4, Home Automation,South,Enterprise,23-08-2021,126
+1429,1529,Converted,Dealer 2,Modular Switches,South,Individual,24-08-2021,125.816
+1430,1530,Converted,Dealer 5,Modular Switches,East,Wholesale,25-08-2021,144.24
+1431,1531,Converted,Dealer 6,Electrical fans,East,Enterprise,26-08-2021,140.888
+1432,1532,Not Converted,Dealer 4,MCBs,West,Enterprise,27-08-2021,249.358
+1433,1533,Converted,Dealer 6,MCBs,South,Individual,28-08-2021,123.84
+1434,1534,Not Converted,Dealer 2,MCBs,Central,Wholesale,29-08-2021,271.604
+1435,1535,Not Converted,Dealer 2,Cabels ,Central,Enterprise,30-08-2021,461.84
+1436,1536,Not Converted,Dealer 6,Cabels ,West,Small Business,31-08-2021,110.99
+1437,1537,Not Converted,Dealer 3,Cabels ,South,Small Business,01-09-2021,117.784
+1438,1538,Not Converted,Dealer 3, Home Automation,Central,Small Business,02-09-2021,239.94
+1439,1539,Converted,Dealer 2,Cabels ,South,Wholesale,03-09-2021,921.9
+1440,1540,Not Converted,Dealer 3,MCBs,East,Small Business,04-09-2021,5107.96
+1441,1541,Not Converted,Dealer 4,MCBs,West,Retail,05-09-2021,96.476
+1442,1542,Not Converted,Dealer 1,Modular Switches,West,Individual,06-09-2021,125.984
+1443,1543,Converted,Dealer 6,MCBs,South,Retail,07-09-2021,102.46
+1444,1544,Not Converted,Dealer 4,Cabels ,South,Retail,08-09-2021,111.456
+1445,1545,Not Converted,Dealer 2,Cabels ,North,Small Business,09-09-2021,130.396
+1446,1546,Converted,Dealer 1,Electrical fans,Central,Individual,10-09-2021,154.36
+1447,1547,Not Converted,Dealer 2, Home Automation,East,Enterprise,11-09-2021,107.72
+1448,1548,Not Converted,Dealer 1,MCBs,Central,Retail,12-09-2021,562.3
+1449,1549,Converted,Dealer 4, Home Automation,North,Enterprise,13-09-2021,158.792
+1450,1550,Not Converted,Dealer 1,MCBs,South,Enterprise,14-09-2021,140.56
+1451,1551,Converted,Dealer 3,Modular Switches,Central,Wholesale,15-09-2021,146.624
+1452,1552,Not Converted,Dealer 4,Modular Switches,West,Individual,16-09-2021,137.936
+1453,1553,Not Converted,Dealer 5, Home Automation,Central,Individual,17-09-2021,127.928
+1454,1554,Not Converted,Dealer 2,Cabels ,South,Retail,18-09-2021,190.568
+1455,1555,Converted,Dealer 3,Electrical fans,Central,Wholesale,19-09-2021,717.952
+1456,1556,Converted,Dealer 6,MCBs,North,Wholesale,20-09-2021,102.559
+1457,1557,Converted,Dealer 5,MCBs,East,Wholesale,21-09-2021,118.216
+1458,1558,Converted,Dealer 3,Electrical fans,South,Individual,22-09-2021,130.992
+1459,1559,Not Converted,Dealer 6, Home Automation,West,Individual,23-09-2021,167.696
+1460,1560,Converted,Dealer 4, Home Automation,North,Small Business,24-09-2021,629.136
+1461,1561,Converted,Dealer 1,MCBs,South,Individual,25-09-2021,1037.6
+1462,1562,Converted,Dealer 6,Modular Switches,West,Individual,26-09-2021,84.168
+1463,1563,Not Converted,Dealer 1,Electrical fans,West,Wholesale,27-09-2021,134.99
+1464,1564,Not Converted,Dealer 6,MCBs,South,Enterprise,28-09-2021,231.68
+1465,1565,Not Converted,Dealer 5,Modular Switches,North,Retail,29-09-2021,900.88
+1466,1566,Not Converted,Dealer 4, Home Automation,West,Enterprise,30-09-2021,97.22
+1467,1567,Not Converted,Dealer 3,Modular Switches,East,Retail,01-10-2021,136
+1468,1568,Converted,Dealer 6,Cabels ,North,Small Business,02-10-2021,143.88
+1469,1569,Converted,Dealer 1,MCBs,West,Individual,03-10-2021,141.08
+1470,1570,Not Converted,Dealer 5,Electrical fans,South,Retail,04-10-2021,118.84
+1471,1571,Not Converted,Dealer 3,Modular Switches,South,Retail,05-10-2021,85.607
+1472,1572,Converted,Dealer 1, Home Automation,North,Retail,06-10-2021,107.184
+1473,1573,Not Converted,Dealer 4,Modular Switches,West,Retail,07-10-2021,155.96
+1474,1574,Not Converted,Dealer 1, Home Automation,West,Individual,08-10-2021,194.48
+1475,1575,Converted,Dealer 4,Cabels ,North,Enterprise,09-10-2021,1735.12
+1476,1576,Not Converted,Dealer 3, Home Automation,North,Retail,10-10-2021,172.992
+1477,1577,Not Converted,Dealer 3,Electrical fans,North,Wholesale,11-10-2021,522.768
+1478,1578,Not Converted,Dealer 1,Cabels ,East,Retail,12-10-2021,110.9
+1479,1579,Not Converted,Dealer 4,Modular Switches,East,Individual,13-10-2021,178.1
+1480,1580,Converted,Dealer 6,MCBs,East,Wholesale,14-10-2021,199.372
+1481,1581,Not Converted,Dealer 3, Home Automation,South,Individual,15-10-2021,622.352
+1482,1582,Converted,Dealer 6,Electrical fans,East,Small Business,16-10-2021,131.02
+1483,1583,Not Converted,Dealer 6,MCBs,East,Individual,17-10-2021,220.75
+1484,1584,Not Converted,Dealer 2,MCBs,East,Wholesale,18-10-2021,377.376
+1485,1585,Not Converted,Dealer 1,Cabels ,West,Enterprise,19-10-2021,119.086
+1486,1586,Converted,Dealer 1,Modular Switches,Central,Wholesale,20-10-2021,141.72
+1487,1587,Not Converted,Dealer 1,MCBs,East,Enterprise,21-10-2021,124.98
+1488,1588,Not Converted,Dealer 5,Electrical fans,North,Wholesale,22-10-2021,133.4
+1489,1589,Not Converted,Dealer 3, Home Automation,East,Retail,23-10-2021,166.124
+1490,1590,Converted,Dealer 3, Home Automation,Central,Individual,24-10-2021,207.688
+1491,1591,Not Converted,Dealer 2, Home Automation,South,Small Business,25-10-2021,427.75
+1492,1592,Converted,Dealer 2,Cabels ,South,Enterprise,26-10-2021,81.388
+1493,1593,Converted,Dealer 2,Electrical fans,East,Enterprise,27-10-2021,114.424
+1494,1594,Not Converted,Dealer 6,MCBs,North,Retail,28-10-2021,106.03
+1495,1595,Converted,Dealer 1,Electrical fans,North,Retail,29-10-2021,111.73
+1496,1596,Converted,Dealer 4,Cabels ,West,Wholesale,30-10-2021,140.95
+1497,1597,Not Converted,Dealer 3,Cabels ,North,Enterprise,31-10-2021,127.94
+1498,1598,Converted,Dealer 4,Modular Switches,West,Individual,01-11-2021,449.8
+1499,1599,Not Converted,Dealer 1,Electrical fans,West,Wholesale,02-11-2021,786.544
+1500,1600,Converted,Dealer 1, Home Automation,North,Retail,03-11-2021,86.88
+1501,1601,Converted,Dealer 3,Cabels ,North,Enterprise,04-11-2021,144.792
+1502,1602,Not Converted,Dealer 6,Cabels ,West,Small Business,05-11-2021,176.97
+1503,1603,Not Converted,Dealer 2,Modular Switches,South,Small Business,06-11-2021,130.99
+1504,1604,Not Converted,Dealer 6, Home Automation,East,Enterprise,07-11-2021,134.53
+1505,1605,Converted,Dealer 1,Cabels ,South,Individual,08-11-2021,201.976
+1506,1606,Not Converted,Dealer 5,MCBs,North,Enterprise,09-11-2021,229.976
+1507,1607,Not Converted,Dealer 6, Home Automation,Central,Individual,10-11-2021,36.168
+1508,1608,Not Converted,Dealer 2,Electrical fans,North,Retail,11-11-2021,541.392
+1509,1609,Not Converted,Dealer 2,Modular Switches,West,Individual,12-11-2021,156.12
+1510,1610,Not Converted,Dealer 5,MCBs,Central,Individual,13-11-2021,129.79
+1511,1611,Not Converted,Dealer 5,MCBs,Central,Enterprise,14-11-2021,216.584
+1512,1612,Not Converted,Dealer 2,Electrical fans,East,Enterprise,15-11-2021,257.952
+1513,1613,Converted,Dealer 3,Modular Switches,North,Small Business,16-11-2021,273.424
+1514,1614,Not Converted,Dealer 3,Cabels ,East,Retail,17-11-2021,469.88
+1515,1615,Converted,Dealer 4,Modular Switches,South,Wholesale,18-11-2021,931.136
+1516,1616,Converted,Dealer 6,Cabels ,Central,Enterprise,19-11-2021,971.176
+1517,1617,Not Converted,Dealer 1,Electrical fans,East,Retail,20-11-2021,126.52
+1518,1618,Converted,Dealer 2,Electrical fans,South,Retail,21-11-2021,141.388
+1519,1619,Converted,Dealer 4,MCBs,North,Small Business,22-11-2021,162.6
+1520,1620,Converted,Dealer 3,MCBs,North,Enterprise,23-11-2021,1197.12
+1521,1621,Converted,Dealer 2,MCBs,West,Enterprise,24-11-2021,136.89
+1522,1622,Converted,Dealer 6,Electrical fans,South,Retail,25-11-2021,150.92
+1523,1623,Converted,Dealer 3,Cabels ,South,Enterprise,26-11-2021,103.352
+1524,1624,Converted,Dealer 5,Electrical fans,East,Small Business,27-11-2021,132.888
+1525,1625,Converted,Dealer 2,Electrical fans,Central,Small Business,28-11-2021,134.568
+1526,1626,Converted,Dealer 4,MCBs,Central,Small Business,29-11-2021,417.782
+1527,1627,Converted,Dealer 1,Modular Switches,West,Enterprise,30-11-2021,692.984
+1528,1628,Not Converted,Dealer 2,MCBs,West,Enterprise,01-12-2021,112.92
+1529,1629,Converted,Dealer 2,Modular Switches,West,Small Business,02-12-2021,94.016
+1530,1630,Converted,Dealer 2,Cabels ,South,Individual,03-12-2021,100.544
+1531,1631,Not Converted,Dealer 2,Cabels ,North,Wholesale,04-12-2021,114.92
+1532,1632,Not Converted,Dealer 2, Home Automation,North,Retail,05-12-2021,131.6
+1533,1633,Not Converted,Dealer 1, Home Automation,East,Individual,06-12-2021,186.95
+1534,1634,Converted,Dealer 6, Home Automation,Central,Wholesale,07-12-2021,199.96
+1535,1635,Converted,Dealer 6,Cabels ,Central,Enterprise,08-12-2021,253.92
+1536,1636,Converted,Dealer 1,MCBs,East,Retail,09-12-2021,674.95
+1537,1637,Not Converted,Dealer 6,MCBs,South,Individual,10-12-2021,99.22
+1538,1638,Converted,Dealer 4,MCBs,North,Retail,11-12-2021,149.6
+1539,1639,Converted,Dealer 4,Electrical fans,West,Enterprise,12-12-2021,143
+1540,1640,Not Converted,Dealer 1, Home Automation,North,Wholesale,13-12-2021,151.864
+1541,1641,Not Converted,Dealer 4,MCBs,East,Wholesale,14-12-2021,151.95
+1542,1642,Not Converted,Dealer 1, Home Automation,North,Wholesale,15-12-2021,154.94
+1543,1643,Converted,Dealer 4, Home Automation,West,Individual,16-12-2021,334.568
+1544,1644,Converted,Dealer 3,Electrical fans,Central,Wholesale,17-12-2021,83.648
+1545,1645,Converted,Dealer 1,Cabels ,East,Individual,18-12-2021,121.64
+1546,1646,Converted,Dealer 2,MCBs,South,Individual,19-12-2021,243.064
+1547,1647,Not Converted,Dealer 4,Electrical fans,North,Small Business,20-12-2021,378.136
+1548,1648,Converted,Dealer 3,Cabels ,North,Individual,21-12-2021,145.94
+1549,1649,Converted,Dealer 1,Cabels ,South,Retail,22-12-2021,160.94
+1550,1650,Not Converted,Dealer 4,MCBs,South,Wholesale,23-12-2021,178.96
+1551,1651,Not Converted,Dealer 2, Home Automation,West,Individual,24-12-2021,94.42
+1552,1652,Not Converted,Dealer 4,Modular Switches,North,Enterprise,25-12-2021,97.824
+1553,1653,Converted,Dealer 3, Home Automation,East,Individual,26-12-2021,100.31
+1554,1654,Not Converted,Dealer 6, Home Automation,North,Individual,27-12-2021,200.76
+1555,1655,Converted,Dealer 6,Modular Switches,West,Small Business,28-12-2021,224.1
+1556,1656,Not Converted,Dealer 3,Cabels ,East,Retail,29-12-2021,269.96
+1557,1657,Not Converted,Dealer 5,Modular Switches,East,Enterprise,30-12-2021,145.99
+1558,1658,Converted,Dealer 1,Modular Switches,East,Small Business,31-12-2021,177.386
+1559,1659,Not Converted,Dealer 6,Electrical fans,West,Retail,01-01-2023,411.056
+1560,1660,Not Converted,Dealer 1,Electrical fans,North,Individual,02-01-2023,138.232
+1561,1661,Not Converted,Dealer 5,Electrical fans,Central,Enterprise,03-01-2023,177.95
+1562,1662,Converted,Dealer 3,Cabels ,East,Retail,04-01-2023,1538.74
+1563,1663,Not Converted,Dealer 1,Modular Switches,South,Small Business,05-01-2023,149.968
+1564,1664,Converted,Dealer 5,MCBs,West,Individual,06-01-2023,130.7
+1565,1665,Not Converted,Dealer 1,Modular Switches,East,Individual,07-01-2023,158.28
+1566,1666,Not Converted,Dealer 4,Cabels ,West,Wholesale,08-01-2023,164.913
+1567,1667,Not Converted,Dealer 4,Electrical fans,South,Small Business,09-01-2023,159.408
+1568,1668,Not Converted,Dealer 2,Cabels ,East,Enterprise,10-01-2023,122.056
+1569,1669,Not Converted,Dealer 6,Electrical fans,North,Individual,11-01-2023,127.6
+1570,1670,Not Converted,Dealer 2,Cabels ,West,Wholesale,12-01-2023,326.92
+1571,1671,Converted,Dealer 5,MCBs,East,Retail,13-01-2023,606.99
+1572,1672,Converted,Dealer 4,Electrical fans,East,Individual,14-01-2023,1289.97
+1573,1673,Not Converted,Dealer 1,Electrical fans,West,Retail,15-01-2023,85.97
+1574,1674,Not Converted,Dealer 3,Modular Switches,South,Individual,16-01-2023,123.656
+1575,1675,Converted,Dealer 4,Cabels ,West,Retail,17-01-2023,125.6
+1576,1676,Not Converted,Dealer 4, Home Automation,Central,Small Business,18-01-2023,139.97
+1577,1677,Not Converted,Dealer 1, Home Automation,North,Retail,19-01-2023,696.976
+1578,1678,Not Converted,Dealer 4,Modular Switches,South,Retail,20-01-2023,108.62
+1579,1679,Converted,Dealer 4,Cabels ,North,Individual,21-01-2023,142.42
+1580,1680,Not Converted,Dealer 5,MCBs,North,Individual,22-01-2023,129.736
+1581,1681,Not Converted,Dealer 4,Modular Switches,West,Retail,23-01-2023,235.384
+1582,1682,Converted,Dealer 6,Electrical fans,Central,Small Business,24-01-2023,86.464
+1583,1683,Not Converted,Dealer 6,MCBs,East,Enterprise,25-01-2023,249.58
+1584,1684,Converted,Dealer 6,Cabels ,Central,Wholesale,26-01-2023,1000.292
+1585,1685,Not Converted,Dealer 6,Electrical fans,South,Retail,27-01-2023,107.724
+1586,1686,Not Converted,Dealer 4, Home Automation,Central,Small Business,28-01-2023,146.96
+1587,1687,Not Converted,Dealer 3,Cabels ,North,Retail,29-01-2023,100.272
+1588,1688,Not Converted,Dealer 6,Electrical fans,East,Wholesale,30-01-2023,116.98
+1589,1689,Not Converted,Dealer 6,Cabels ,Central,Enterprise,31-01-2023,135.344
+1590,1690,Converted,Dealer 4,Electrical fans,East,Enterprise,01-02-2023,159.3
+1591,1691,Converted,Dealer 2,Cabels ,Central,Retail,02-02-2023,170.3
+1592,1692,Converted,Dealer 5, Home Automation,East,Wholesale,03-02-2023,232.752
+1593,1693,Converted,Dealer 1,Modular Switches,Central,Retail,04-02-2023,242.136
+1594,1694,Not Converted,Dealer 6,Electrical fans,South,Individual,05-02-2023,843.6
+1595,1695,Not Converted,Dealer 1,Electrical fans,East,Enterprise,06-02-2023,996.95
+1596,1696,Converted,Dealer 6, Home Automation,West,Small Business,07-02-2023,1906.96
+1597,1697,Not Converted,Dealer 2,Modular Switches,North,Small Business,08-02-2023,124.46
+1598,1698,Not Converted,Dealer 3,Cabels ,East,Small Business,09-02-2023,130.568
+1599,1699,Not Converted,Dealer 2,Electrical fans,North,Wholesale,10-02-2023,136.04
+1600,1700,Converted,Dealer 4,Modular Switches,Central,Wholesale,11-02-2023,142.73
+1601,1701,Converted,Dealer 4,Cabels ,Central,Enterprise,12-02-2023,132.488
+1602,1702,Not Converted,Dealer 1,Electrical fans,Central,Wholesale,13-02-2023,138.424
+1603,1703,Converted,Dealer 5,Electrical fans,Central,Individual,14-02-2023,179.16
+1604,1704,Not Converted,Dealer 4,Cabels ,Central,Enterprise,15-02-2023,510.94
+1605,1705,Converted,Dealer 4, Home Automation,South,Enterprise,16-02-2023,155.84
+1606,1706,Not Converted,Dealer 4,Modular Switches,North,Individual,17-02-2023,169.568
+1607,1707,Not Converted,Dealer 6,Electrical fans,East,Individual,18-02-2023,524.89
+1608,1708,Not Converted,Dealer 2,Cabels ,South,Individual,19-02-2023,106.472
+1609,1709,Not Converted,Dealer 6,Electrical fans,South,Retail,20-02-2023,590.06
+1610,1710,Not Converted,Dealer 3,Cabels ,South,Small Business,21-02-2023,673.936
+1611,1711,Not Converted,Dealer 6,Electrical fans,South,Small Business,22-02-2023,1263.9
+1612,1712,Not Converted,Dealer 4,MCBs,South,Enterprise,23-02-2023,152.83
+1613,1713,Not Converted,Dealer 6, Home Automation,North,Individual,24-02-2023,175.976
+1614,1714,Not Converted,Dealer 1,Modular Switches,East,Wholesale,25-02-2023,127.584
+1615,1715,Not Converted,Dealer 5, Home Automation,North,Individual,26-02-2023,449.368
+1616,1716,Not Converted,Dealer 5, Home Automation,East,Enterprise,27-02-2023,483.376
+1617,1717,Converted,Dealer 6,Modular Switches,South,Small Business,28-02-2023,669.64
+1618,1718,Converted,Dealer 5, Home Automation,South,Retail,01-03-2023,122.783
+1619,1719,Converted,Dealer 1,MCBs,Central,Individual,02-03-2023,99.712
+1620,1720,Not Converted,Dealer 1,Cabels ,West,Small Business,03-03-2023,118.52
+1621,1721,Converted,Dealer 6,Modular Switches,West,Enterprise,04-03-2023,112.152
+1622,1722,Converted,Dealer 4,Cabels ,North,Enterprise,05-03-2023,127.37
+1623,1723,Converted,Dealer 5,Electrical fans,North,Small Business,06-03-2023,138.128
+1624,1724,Converted,Dealer 3,MCBs,East,Small Business,07-03-2023,104.456
+1625,1725,Not Converted,Dealer 1,Cabels ,Central,Individual,08-03-2023,120.47
+1626,1726,Not Converted,Dealer 3,Cabels ,East,Wholesale,09-03-2023,199.188
+1627,1727,Not Converted,Dealer 5,Modular Switches,Central,Individual,10-03-2023,556.704
+1628,1728,Converted,Dealer 6,Electrical fans,West,Retail,11-03-2023,245.68
+1629,1729,Converted,Dealer 1,Modular Switches,West,Small Business,12-03-2023,182.056
+1630,1730,Not Converted,Dealer 3,Electrical fans,Central,Retail,13-03-2023,132.024
+1631,1731,Converted,Dealer 1,Modular Switches,East,Retail,14-03-2023,113.624
+1632,1732,Not Converted,Dealer 3,Cabels ,North,Wholesale,15-03-2023,135.36
+1633,1733,Converted,Dealer 4,Cabels ,Central,Individual,16-03-2023,133.66
+1634,1734,Not Converted,Dealer 4,MCBs,Central,Enterprise,17-03-2023,137.616
+1635,1735,Converted,Dealer 5,Cabels ,Central,Retail,18-03-2023,163.86
+1636,1736,Converted,Dealer 2, Home Automation,East,Retail,19-03-2023,134.992
+1637,1737,Not Converted,Dealer 1,Cabels ,North,Retail,20-03-2023,116.92
+1638,1738,Converted,Dealer 5, Home Automation,East,Retail,21-03-2023,122.752
+1639,1739,Converted,Dealer 3,Cabels ,South,Enterprise,22-03-2023,150.336
+1640,1740,Not Converted,Dealer 6, Home Automation,South,Individual,23-03-2023,154.99
+1641,1741,Converted,Dealer 4, Home Automation,Central,Wholesale,24-03-2023,118.192
+1642,1742,Not Converted,Dealer 5,Cabels ,Central,Retail,25-03-2023,117.376
+1643,1743,Converted,Dealer 6, Home Automation,Central,Small Business,26-03-2023,132.72
+1644,1744,Converted,Dealer 5,MCBs,North,Enterprise,27-03-2023,110.624
+1645,1745,Not Converted,Dealer 2,Electrical fans,North,Wholesale,28-03-2023,137.992
+1646,1746,Not Converted,Dealer 3, Home Automation,Central,Small Business,29-03-2023,140.39
+1647,1747,Not Converted,Dealer 2, Home Automation,North,Small Business,30-03-2023,280.9
+1648,1748,Not Converted,Dealer 4,MCBs,West,Small Business,31-03-2023,129.94
+1649,1749,Not Converted,Dealer 6,MCBs,Central,Retail,01-04-2023,165.44
+1650,1750,Converted,Dealer 4,Modular Switches,West,Individual,02-04-2023,143.68
+1651,1751,Converted,Dealer 4,Electrical fans,East,Retail,03-04-2023,156.96
+1652,1752,Not Converted,Dealer 3,Modular Switches,West,Small Business,04-04-2023,142.984
+1653,1753,Not Converted,Dealer 1, Home Automation,East,Wholesale,05-04-2023,400.376
+1654,1754,Converted,Dealer 1,MCBs,East,Retail,06-04-2023,1901.99
+1655,1755,Converted,Dealer 3, Home Automation,Central,Wholesale,07-04-2023,104.48
+1656,1756,Not Converted,Dealer 6,Cabels ,Central,Retail,08-04-2023,142.568
+1657,1757,Not Converted,Dealer 2,Electrical fans,East,Individual,09-04-2023,143.48
+1658,1758,Converted,Dealer 6,Cabels ,North,Individual,10-04-2023,157.9
+1659,1759,Converted,Dealer 2,MCBs,South,Retail,11-04-2023,190.95
+1660,1760,Converted,Dealer 1,MCBs,West,Retail,12-04-2023,117.424
+1661,1761,Converted,Dealer 4,MCBs,East,Individual,13-04-2023,164.48
+1662,1762,Not Converted,Dealer 4,Electrical fans,South,Wholesale,14-04-2023,220
+1663,1763,Converted,Dealer 6,Modular Switches,Central,Individual,15-04-2023,473.768
+1664,1764,Converted,Dealer 3, Home Automation,Central,Retail,16-04-2023,1021.4
+1665,1765,Converted,Dealer 2, Home Automation,East,Wholesale,17-04-2023,118.005
+1666,1766,Not Converted,Dealer 4, Home Automation,North,Retail,18-04-2023,440.84
+1667,1767,Converted,Dealer 6, Home Automation,East,Enterprise,19-04-2023,429.936
+1668,1768,Not Converted,Dealer 3, Home Automation,West,Retail,20-04-2023,396.104
+1669,1769,Not Converted,Dealer 5,Modular Switches,South,Individual,21-04-2023,147.568
+1670,1770,Not Converted,Dealer 3,Cabels ,North,Small Business,22-04-2023,344.568
+1671,1771,Not Converted,Dealer 1,Electrical fans,East,Individual,23-04-2023,440.312
+1672,1772,Not Converted,Dealer 6,Cabels ,West,Individual,24-04-2023,333.98
+1673,1773,Not Converted,Dealer 3,Cabels ,West,Wholesale,25-04-2023,775.464
+1674,1774,Converted,Dealer 6, Home Automation,North,Enterprise,26-04-2023,449.4
+1675,1775,Converted,Dealer 1, Home Automation,West,Wholesale,27-04-2023,415.952
+1676,1776,Converted,Dealer 5,Modular Switches,West,Retail,28-04-2023,398.36
+1677,1777,Converted,Dealer 4,Electrical fans,West,Small Business,29-04-2023,430.98
+1678,1778,Not Converted,Dealer 1,MCBs,West,Individual,30-04-2023,447.72
+1679,1779,Converted,Dealer 2,Cabels ,East,Small Business,01-05-2023,339.784
+1680,1780,Converted,Dealer 2,MCBs,North,Small Business,02-05-2023,379.04
+1681,1781,Converted,Dealer 4,Electrical fans,South,Retail,03-05-2023,391.96
+1682,1782,Converted,Dealer 4,Cabels ,South,Retail,04-05-2023,422.328
+1683,1783,Converted,Dealer 3,MCBs,West,Small Business,05-05-2023,197.976
+1684,1784,Converted,Dealer 5,MCBs,East,Individual,06-05-2023,500.68
+1685,1785,Converted,Dealer 4,Modular Switches,West,Retail,07-05-2023,171.352
+1686,1786,Not Converted,Dealer 2,Electrical fans,West,Individual,08-05-2023,434.032
+1687,1787,Not Converted,Dealer 3,Electrical fans,East,Retail,09-05-2023,274.264
+1688,1788,Not Converted,Dealer 1,Electrical fans,Central,Individual,10-05-2023,375.25
+1689,1789,Not Converted,Dealer 3,Cabels ,North,Individual,11-05-2023,1425.776
+1690,1790,Converted,Dealer 3,Modular Switches,South,Enterprise,12-05-2023,329.32
+1691,1791,Converted,Dealer 3, Home Automation,East,Retail,13-05-2023,386.184
+1692,1792,Not Converted,Dealer 6,Cabels ,South,Enterprise,14-05-2023,378.95
+1693,1793,Not Converted,Dealer 1,Electrical fans,East,Small Business,15-05-2023,522.95
+1694,1794,Not Converted,Dealer 4,Cabels ,East,Individual,16-05-2023,286.96
+1695,1795,Converted,Dealer 2,MCBs,Central,Individual,17-05-2023,318.32
+1696,1796,Converted,Dealer 2,Cabels ,West,Wholesale,18-05-2023,277.376
+1697,1797,Not Converted,Dealer 4,Cabels ,North,Retail,19-05-2023,318.984
+1698,1798,Converted,Dealer 6,Electrical fans,Central,Small Business,20-05-2023,348.568
+1699,1799,Not Converted,Dealer 2,MCBs,South,Small Business,21-05-2023,486.36
+1700,1800,Converted,Dealer 3,Electrical fans,North,Retail,22-05-2023,335.24
+1701,1801,Converted,Dealer 2,MCBs,West,Wholesale,23-05-2023,444.816
+1702,1802,Converted,Dealer 1,MCBs,Central,Wholesale,24-05-2023,431.808
+1703,1803,Not Converted,Dealer 1,MCBs,East,Retail,25-05-2023,395.98
+1704,1804,Converted,Dealer 4,Electrical fans,South,Individual,26-05-2023,498.112
+1705,1805,Converted,Dealer 6,MCBs,Central,Individual,27-05-2023,1406.938
+1706,1806,Converted,Dealer 6,Modular Switches,Central,Small Business,28-05-2023,2087.56
+1707,1807,Converted,Dealer 2,Modular Switches,North,Retail,29-05-2023,284.236
+1708,1808,Not Converted,Dealer 6, Home Automation,South,Individual,30-05-2023,332.96
+1709,1809,Not Converted,Dealer 6,Modular Switches,South,Wholesale,31-05-2023,455.672
+1710,1810,Not Converted,Dealer 2, Home Automation,South,Retail,01-06-2023,488.672
+1711,1811,Converted,Dealer 1,Modular Switches,North,Small Business,02-06-2023,423.36
+1712,1812,Not Converted,Dealer 3,Electrical fans,South,Individual,03-06-2023,3269.984
+1713,1813,Not Converted,Dealer 4, Home Automation,North,Individual,04-06-2023,489.352
+1714,1814,Not Converted,Dealer 1,Cabels ,East,Wholesale,05-06-2023,328.96
+1715,1815,Not Converted,Dealer 6,Cabels ,North,Individual,06-06-2023,263.95
+1716,1816,Not Converted,Dealer 6,Modular Switches,West,Individual,07-06-2023,212.958
+1717,1817,Not Converted,Dealer 2,Cabels ,South,Wholesale,08-06-2023,468.43
+1718,1818,Converted,Dealer 4,Modular Switches,West,Wholesale,09-06-2023,128.641
+1719,1819,Converted,Dealer 3,Modular Switches,West,Small Business,10-06-2023,316.84
+1720,1820,Not Converted,Dealer 2,Cabels ,East,Retail,11-06-2023,471.48
+1721,1821,Not Converted,Dealer 2,Cabels ,Central,Individual,12-06-2023,622.764
+1722,1822,Not Converted,Dealer 3,MCBs,East,Individual,13-06-2023,362.88
+1723,1823,Converted,Dealer 3, Home Automation,North,Wholesale,14-06-2023,814.376
+1724,1824,Converted,Dealer 6,Modular Switches,North,Small Business,15-06-2023,454.376
+1725,1825,Converted,Dealer 2,Cabels ,South,Individual,16-06-2023,427.544
+1726,1826,Converted,Dealer 1, Home Automation,West,Small Business,17-06-2023,322.93
+1727,1827,Not Converted,Dealer 1,Cabels ,East,Enterprise,18-06-2023,379.312
+1728,1828,Converted,Dealer 2,Cabels ,Central,Wholesale,19-06-2023,455.91
+1729,1829,Converted,Dealer 3,MCBs,East,Individual,20-06-2023,352.48
+1730,1830,Not Converted,Dealer 5,Modular Switches,South,Small Business,21-06-2023,349.928
+1731,1831,Not Converted,Dealer 3,Modular Switches,East,Retail,22-06-2023,468.552
+1732,1832,Not Converted,Dealer 3,Electrical fans,Central,Small Business,23-06-2023,331.023
+1733,1833,Converted,Dealer 4,MCBs,Central,Small Business,24-06-2023,421
+1734,1834,Not Converted,Dealer 3, Home Automation,West,Enterprise,25-06-2023,329.96
+1735,1835,Not Converted,Dealer 4,MCBs,West,Individual,26-06-2023,308.132
+1736,1836,Converted,Dealer 2, Home Automation,South,Individual,27-06-2023,928.388
+1737,1837,Not Converted,Dealer 4,Modular Switches,West,Wholesale,28-06-2023,116.372
+1738,1838,Not Converted,Dealer 1,Electrical fans,North,Small Business,29-06-2023,331.704
+1739,1839,Not Converted,Dealer 4,Electrical fans,West,Retail,30-06-2023,478.96
+1740,1840,Not Converted,Dealer 3,Modular Switches,North,Enterprise,01-07-2023,198.188
+1741,1841,Not Converted,Dealer 2,Cabels ,East,Small Business,02-07-2023,398.68
+1742,1842,Converted,Dealer 4,MCBs,North,Retail,03-07-2023,1302.968
+1743,1843,Converted,Dealer 3,Electrical fans,South,Wholesale,04-07-2023,381.85
+1744,1844,Not Converted,Dealer 4,Cabels ,Central,Enterprise,05-07-2023,158.264
+1745,1845,Not Converted,Dealer 5, Home Automation,South,Individual,06-07-2023,419.12
+1746,1846,Not Converted,Dealer 2,Electrical fans,South,Individual,07-07-2023,156.376
+1747,1847,Not Converted,Dealer 1, Home Automation,South,Small Business,08-07-2023,119.568
+1748,1848,Not Converted,Dealer 5,Cabels ,South,Enterprise,09-07-2023,441.93
+1749,1849,Converted,Dealer 3, Home Automation,West,Retail,10-07-2023,509.3
+1750,1850,Not Converted,Dealer 2,Cabels ,East,Wholesale,11-07-2023,496.72
+1751,1851,Converted,Dealer 2, Home Automation,Central,Wholesale,12-07-2023,295.904
