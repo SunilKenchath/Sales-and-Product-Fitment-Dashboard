@@ -1,4 +1,6 @@
 # Sales Dashboard
 
-A robust sales dashboard for company-wide performance analysis using Power BI. Incorporated diverse data sources, including Kaggle. Highlighted key metrics encompassing overall sales figures, product mix sales, product fitment, dealer sales, wallet share, and dealer wallet potential. Additionally, featured crucial lead metrics, such as number of leads, conversion rate, lead source, promotional schemes utilized, and insights into leads lost and won, along with tracking additions to leads.
-
+* This is a project that I created to showcase the client one of the important key metrics in marketing, sales and product fitment.
+* Utilized a dataset sourced from Kaggle, performed thorough data cleaning, and customized the dataset based on the client's product mix and categories.
+* Emphasized key metrics including overall sales figures, product mix sales, product fitment, dealer sales, wallet share, and dealer wallet potential.
+* Featured essential lead metrics such as the number of leads, conversion rate, lead source, promotional schemes used, and insights into both lost and won leads, while also tracking additions to leads.
